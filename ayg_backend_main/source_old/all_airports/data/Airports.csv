@@ -1,0 +1,75 @@
+airportName,airportCity,airportCountry,airportIataCode,airportIcaoCode,isReady,isPickupReady,isDeliveryReady,imageBackground,geoPointLocation,airportTimezone,employeeDiscountPCT,militaryDiscountPCT
+Los Angeles International,Los Angeles,United States,LAX,KLAX,N,N,N,,33.942536;-118.408075,America/Los_Angeles,0.02,0.02
+Austin Bergstrom International,Austin,United States,AUS,KAUS,N,N,N,,30.194528;-97.669889,America/Chicago,0.02,0.02
+Baltimore/Washington International Thurgood Marshall,Baltimore,United States,BWI,KBWI,N,N,N,,39.175361;-76.668333,America/New_York,0.1,0.1
+Charlotte Douglas International,Charlotte,United States,CLT,KCLT,N,N,N,,35.214;-80.943139,America/New_York,0.02,0.02
+Chicago Midway International,Chicago,United States,MDW,KMDW,N,N,N,,41.785972;-87.752417,America/Chicago,0.02,0.02
+Chicago O'Hare International,Chicago,United States,ORD,KORD,N,N,N,,41.978603;-87.904842,America/Chicago,0.02,0.02
+Cleveland Hopkins International,Cleveland,United States,CLE,KCLE,N,N,N,,41.411689;-81.849794,America/New_York,0.02,0.02
+Dallas Fort Worth International,Dallas-Fort Worth,United States,DFW,KDFW,N,N,N,,32.896828;-97.037997,America/Chicago,0.02,0.02
+Denver International,Denver,United States,DEN,KDEN,N,N,N,,39.861656;-104.673178,America/Denver,0.02,0.02
+Detroit Metropolitan Wayne County,Detroit,United States,DTW,KDTW,N,N,N,,42.212444;-83.353389,America/New_York,0.02,0.02
+Fort Lauderdale Hollywood International,Fort Lauderdale,United States,FLL,KFLL,N,N,N,,26.072583;-80.15275,America/New_York,0.02,0.02
+Boston Logan International,Boston,United States,BOS,KBOS,N,N,N,,42.364347;-71.005181,America/New_York,0.02,0.02
+George Bush Intercontinental Houston,Houston,United States,IAH,KIAH,N,N,N,,29.984433;-95.341442,America/Chicago,0.02,0.02
+Hartsfield Jackson Atlanta International,Atlanta,United States,ATL,KATL,N,N,N,,33.636719;-84.428067,America/New_York,0.02,0.02
+Honolulu International,Honolulu,United States,HNL,PHNL,N,N,N,,21.318681;-157.922428,Pacific/Honolulu,0.02,0.02
+John F Kennedy International,New York,United States,JFK,KJFK,N,N,N,,40.639751;-73.778925,America/New_York,0.02,0.02
+John Wayne Orange County,Santa Ana,United States,SNA,KSNA,N,N,N,,33.675667;-117.868222,America/Los_Angeles,0.02,0.02
+Kansas City International,Kansas City,United States,MCI,KMCI,N,N,N,,39.297606;-94.713905,America/Chicago,0.02,0.02
+LaGuardia New York,New York,United States,LGA,KLGA,N,N,N,,40.777245;-73.872608,America/New_York,0.02,0.02
+Lambert St Louis International,St Louis,United States,STL,KSTL,N,N,N,,38.748697;-90.370028,America/Chicago,0.02,0.02
+Las Vegas McCarran International,Las Vegas,United States,LAS,KLAS,N,N,N,,36.080056;-115.15225,America/Los_Angeles,0.02,0.02
+Metropolitan Oakland International,Oakland,United States,OAK,KOAK,N,N,N,,37.721278;-122.220722,America/Los_Angeles,0.02,0.02
+Miami International,Miami,United States,MIA,KMIA,N,N,N,,25.79325;-80.290556,America/New_York,0.02,0.02
+Minneapolis St Paul International/Wold-Chamberlain,Minneapolis,United States,MSP,KMSP,N,N,N,,44.881956;-93.221767,America/Chicago,0.02,0.02
+Nashville International,Nashville,United States,BNA,KBNA,N,N,N,,36.124472;-86.678194,America/Chicago,0.02,0.02
+Newark Liberty International,Newark,United States,EWR,KEWR,N,N,N,,40.6925;-74.168667,America/New_York,0.02,0.02
+Orlando International,Orlando,United States,MCO,KMCO,N,N,N,,28.429394;-81.308994,America/New_York,0.02,0.02
+Philadelphia International,Philadelphia,United States,PHL,KPHL,N,N,N,,39.871944;-75.241139,America/New_York,0.02,0.02
+Phoenix Sky Harbor International,Phoenix,United States,PHX,KPHX,N,N,N,,33.434278;-112.011583,America/Phoenix,0.02,0.02
+Portland International,Portland,United States,PDX,KPDX,N,N,N,,45.588722;-122.5975,America/Los_Angeles,0.02,0.02
+Raleigh Durham International,Raleigh/Durham,United States,RDU,KRDU,N,N,N,,35.877639;-78.787472,America/New_York,0.02,0.02
+Ronald Reagan Washington National,Washington,United States,DCA,KDCA,N,N,N,,38.852083;-77.037722,America/New_York,0.02,0.02
+Sacramento International,Sacramento,United States,SMF,KSMF,N,N,N,,38.695417;-121.590778,America/Los_Angeles,0.02,0.02
+Salt Lake City International,Salt Lake City,United States,SLC,KSLC,N,N,N,,40.788389;-111.977772,America/Denver,0.02,0.02
+San Diego International,San Diego,United States,SAN,KSAN,N,N,N,,32.733556;-117.189667,America/Los_Angeles,0.02,0.02
+Mineta San Jose International Airport,San Jose,United States,SJC,KSJC,N,N,N,,37.3626;-121.929022,America/Los_Angeles,0.02,0.02
+San Francisco International,San Francisco,United States,SFO,KSFO,N,N,N,,37.618972;-122.374889,America/Los_Angeles,0.02,0.02
+Seattle Tacoma International,Seattle,United States,SEA,KSEA,N,N,N,,47.449;-122.309306,America/Los_Angeles,0.02,0.02
+Tampa International,Tampa,United States,TPA,KTPA,N,N,N,,27.975472;-82.53325,America/New_York,0.02,0.02
+Washington Dulles International,Washington,United States,IAD,KIAD,N,N,N,,38.944533;-77.455811,America/New_York,0.02,0.02
+William P Hobby Houston,Houston,United States,HOU,KHOU,N,N,N,,29.645419;-95.278889,America/Chicago,0.02,0.02
+Cincinnati/Northern Kentucky International Airport,Cincinnati,United States,CVG,KCVG,N,N,N,,39.048836;-84.667822,America/New_York,0.02,0.02
+Louis Armstrong New Orleans International,New Orleans,United States,MSY,KMSY,N,N,N,,29.993389;-90.258028,America/Chicago,0.02,0.02
+San Juan Luis Munoz Martin International,San Juan,Puerto Rico,SJU,TJSJ,N,N,N,,18.439417;-66.001833,America/Puerto_Rico,0.02,0.02
+Southwest Florida International,Fort Myers,United States,RSW,KRSW,N,N,N,,26.536167;-81.755167,America/New_York,0.02,0.02
+San Antonio International,San Antonio,United States,SAT,KSAT,N,N,N,,29.533694;-98.469778,America/Chicago,0.02,0.02
+Pittsburgh International,Pittsburgh,United States,PIT,KPIT,N,N,N,,40.491467;-80.232872,America/New_York,0.1,0.1
+Indianapolis International,Indianapolis,United States,IND,KIND,N,N,N,,39.717331;-86.294383,America/New_York,0.02,0.02
+John Glenn Columbus International,Columbus,United States,CMH,KCMH,N,N,N,,39.997972;-82.891889,America/New_York,0.02,0.02
+Milwaukee General Mitchell International,Milwaukee,United States,MKE,KMKE,N,N,N,,42.947222;-87.896583,America/Chicago,0.02,0.02
+Kahului Hawaii,Kahului,United States,OGG,PHOG,N,N,N,,20.89865;-156.430458,Pacific/Honolulu,0.02,0.02
+Palm Beach International,West Palm Beach,United States,PBI,KPBI,N,N,N,,26.683161;-80.095589,America/New_York,0.02,0.02
+Bradley International,Hartford,United States,BDL,KBDL,N,N,N,,41.938889;-72.683222,America/New_York,0.02,0.02
+Jacksonville International,Jacksonville,United States,JAX,KJAX,N,N,N,,30.494056;-81.687861,America/New_York,0.02,0.02
+Louisville International,Louisville,United States,SDF,KSDF,N,N,N,,38.1740858;-85.7364989,America/New_York,0.02,0.02
+Albuquerque International,Albuquerque,United States,ABQ,KABQ,N,N,N,,35.0402222;-106.6091944,America/Denver,0.02,0.02
+Ontario International,Ontario,United States,ONT,KONT,N,N,N,,34.056;-117.601194,America/Los_Angeles,0.02,0.02
+Eppley Airfield Omaha,Omaha,United States,OMA,KOMA,N,N,N,,41.303167;-95.894069,America/Chicago,0.02,0.02
+Memphis International,Memphis,United States,MEM,KMEM,N,N,N,,35.042417;-89.976667,America/Chicago,0.02,0.02
+Ted Stevens Anchorage International,Anchorage,United States,ANC,PANC,N,N,N,,61.174361;-149.996361,America/Anchorage,0.02,0.02
+Baudette International,Baudette,United States,BDE,KBDE,N,N,N,,48.728444;-94.612222,America/Chicago,0.02,0.02
+Aruba Queen Beatrix International,Aruba,Netherlands,AUA,TNCA,N,N,N,,12.501389;-70.015221,America/New_York,0.02,0.02
+Cancun International,Cancun,Mexico,CUN,MMUN,N,N,N,,21.036528;-86.877083,America/New_York,0.02,0.02
+Frankfurt Airport,Frankfurt,Germany,FRA,EDDF,N,N,N,,50.026421;8.543125,Europe/Berlin,0.02,0.02
+Heathrow Airport,London,United Kingdon,LHR,EGLL,N,N,N,,51.4775;-0.461389,Europe/London,0.02,0.02
+Lynden Pindling International,Nassau,Bahamas,NAS,MYNN,N,N,N,,25.038958;-77.466231,America/New_York,0.02,0.02
+Toronto Pearson International,Toronto,Canada,YYZ,CYYZ,N,N,N,,43.677223;-79.630556,America/New_York,0.02,0.02
+Dallas Love Field,Dallas,United States,DAL,KDAL,N,N,N,,32.847111;-96.851778,America/Chicago,0.02,0.02
+Buffalo Niagara International,Buffalo,United States,BUF,KBUF,N,N,N,,42.940525; -78.732167,America/New_York,0.02,0.02
+T.F. Green Airport,Providence,United States,PVD,KPVD,N,N,N,,41.732581; -71.420383,America/New_York,0.02,0.02
+Long Island Mac Arthur,Islip,United States,ISP,KISP,N,N,N,,40.79525; -73.100222,America/New_York,0.02,0.02
+Tulsa International,Tulsa,United States,TUL,KTUL,N,N,N,,36.198389; -95.888111,America/Chicago,0.02,0.02
+Will Rogers World,Oklahoma City,United States,OKC,KOKC,N,N,N,,35.393089; -97.600733,America/Chicago,0.02,0.02
+Bob Hope Hollywood,Burbank,United States,BUR,KBUR,N,N,N,,34.200667; -118.358667,America/Los_Angeles,0.02,0.02

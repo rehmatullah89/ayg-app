@@ -1,0 +1,3 @@
+add it in scheduled/_worker_partners_update_retailers_and_items.php file
+add new entry in zDeliverySlackUser table (along with new slack channel)
+

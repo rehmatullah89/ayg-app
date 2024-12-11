@@ -1,0 +1,1 @@
+Hi [customer_first_name]! Thank you for using AtYourGate, we hope you enjoyed your meal. We are a startup and would really appreciate if you could rate us on the Play Store: [rating_url]

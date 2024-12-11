@@ -1,0 +1,6 @@
+Order table
+
+new fields:
+
+partnerName - string, not required
+partnerOrderId - string, not required

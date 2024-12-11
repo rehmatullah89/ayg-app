@@ -1,0 +1,5 @@
+new field: resourceId
+- string
+- not required
+
+table: UserCredits

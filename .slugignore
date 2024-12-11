@@ -1,0 +1,5 @@
+*.md
+composer.phar
+log.error
+*.sh
+local/

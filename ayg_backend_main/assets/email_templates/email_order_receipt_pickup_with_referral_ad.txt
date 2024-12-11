@@ -1,0 +1,62 @@
+
+[{greeting}] [{first_name}]
+
+Thank you for ordering with AtYourGate.
+
+Your pickup location is [{retailer_name}] ([{fullfillment_location}]).
+
+-----------
+
+[{retailer_name}] at [{airport_iata_code}]
+
+(Order# [{order_sequence_number}])
+
+[{repeat-items}]
+
+[{itemName}] x [{itemQuantity}]  [{itemTotalPriceDisplay}]
+
+[{/repeat-items}]
+
+
+[{repeat-options}]
+
+[{optionName}]  [{priceTotalDisplay}]
+
+[{/repeat-options}]
+
+    Sub-Total: [{PreTaxTotalDisplay}]
+    Discounts: [{DiscountsTotalDisplay}]
+    Taxes: [{TaxesDisplay}]
+    Coupon: [{CouponDisplay}]
+    AtYourGate charges: [{AirportSherpaFeeDisplay}]
+    Tips: [{TipsDisplay}]
+    Credits: [{CreditsAppliedDisplay}]
+    Total: [{TotalDisplay}]
+
+[{payment_details}]
+
+-----------
+
+GET [{reward_in_dollars_formatted}] OFF
+
+You will earn [{reward_in_dollars_formatted}] credits for every friend you invite and who places their first order. To make it sweeter, they too get [{referral_offer_in_dollars_formatted}] (when they spend over [{referral_offer_in_dollars_min_spend_formatted}]).
+
+Your unique referral code is: [{user_referral_code}]
+
+Please abide by the referral program rules, learn more here, <a href="[{referral_rules_url}]" target="_blank">Referral Program Rules</a>.
+
+-----------
+
+Need Help? Reach us at:
+
+help@atyourgate.com
+
+844-266-4283
+
+
+Copyright [{copyright_year}] AtYourGate.
+
+AtYourGate, Inc.
+4 Half Moon Trail, Ladera Ranch, CA 92694
+
+https://www.atyourgate.com

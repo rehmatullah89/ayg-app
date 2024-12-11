@@ -1,0 +1,7 @@
+itemCategoryName,itemSecondCategoryName,itemThirdCategoryName,itemPOSName,itemDisplayName,itemDisplayDescription,itemId,itemPrice,priceLevelId,isActive,uniqueRetailerId,uniqueId,itemImageURL,itemTags,itemDisplaySequence,taxCategory,allowedThruSecurity,version
+Entrees,,,Handhelds,Handhelds,Build your own - Choose a protein then pile on your favorite veggies,1,875,99,Y,unique_retailer_id,den_garbanzos_b_item_1,,entree; sandwich; vegetarian,1,,Y,
+Entrees,,,Knife & Fork,Knife & Fork,Build your own - Choose a protein then pile on your favorite veggies,2,1075,99,Y,unique_retailer_id,den_garbanzos_b_item_2,,entree,2,,Y,
+Combos,,,Handhelds,Handhelds,Build your own - Choose a protein then pile on your favorite veggies. Served with fresh-made chips and a drink of your choice,3,1225,99,Y,unique_retailer_id,den_garbanzos_b_item_3,,entree; sandwich; vegetarian,1,,N,
+Combos,,,Knife & Fork,Knife & Fork,Build your own - Choose a protein then pile on your favorite veggies. Served with fresh-made chips and a drink of your choice,4,1425,99,Y,unique_retailer_id,den_garbanzos_b_item_4,,entree,2,,N,
+Sides,,,Sides,Sides,Pair up your Garbanzo creation with a healthy side or have it as a snack,5,100,99,Y,unique_retailer_id,den_garbanzos_b_item_5,,side; snack,1,,Y,
+Drinks,,,Beverages,Beverages,Quench your thirst with a beverage of your choice,6,199,99,Y,unique_retailer_id,den_garbanzos_b_item_6,,drink,1,,N,

@@ -1,0 +1,6 @@
+retailerCategory,retailerType,displayOrder,iconCode
+Cutlery,Food,1,fa-cutlery
+Coffee,Food,2,fa-coffee
+Grocery,Retail,3,fa-shopping-basket
+Book Store,Retail,8,fa-book
+Bank,Service,12,fa-bank

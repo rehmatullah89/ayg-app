@@ -1,0 +1,31 @@
+retailerCategory,retailerType,displayOrder,iconCode
+American,Food,1,fa-cutlery
+Asian,Food,2,fa-cutlery
+Bar,Food,3,fa-cutlery
+Burger,Food,4,fa-cutlery
+Chinese,Food,5,fa-cutlery
+Coffee/Tea,Food,6,fa-coffee
+Fast Food,Food,7,fa-cutlery
+Italian,Food,8,fa-cutlery
+Japanese,Food,9,fa-cutlery
+Mediterranean,Food,10,fa-cutlery
+Mexican,Food,11,fa-cutlery
+Pizza,Food,12,fa-cutlery
+Sandwich,Food,13,fa-cutlery
+Seafood,Food,14,fa-cutlery
+Snacks,Food,15,fa-cutlery
+Children,Retail,15,fa-child
+Convenience,Retail,16,fa-shopping-basket
+Duty Free,Retail,17,fa-cart-arrow-down
+Electronics,Retail,18,fa-headphones
+Gifts,Retail,19,fa-shopping-bag
+Newsstand,Retail,20,fa-book
+Personal Care,Retail,21,fa-heartbeat
+Spa,Retail,22,fa-user
+Clothing,Service,23,fa-gift
+Financial,Service,24,fa-bank
+Lounge,Service,25,fa-user
+Medical,Service,26,fa-medkit
+Ice Cream,Food,27,fa-cutlery
+Luggage,Retail,28,fa-suitcase-rolling
+Salads,Food,29,fa-cutlery

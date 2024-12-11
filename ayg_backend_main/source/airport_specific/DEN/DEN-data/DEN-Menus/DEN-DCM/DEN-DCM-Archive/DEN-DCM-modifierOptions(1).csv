@@ -1,0 +1,5 @@
+optionPOSName,optionDisplayName,optionDisplayDescription,optionId,pricePerUnit,priceLevelId,isActive,uniqueRetailerItemModifierId,uniqueId,optionDisplaySequence,version
+Regular,Regular,,1,,1,Y,den_dcm_a_item_1_mod_1,den_dcm_a_item_1_mod_1_option_1,1,
+Decaf,Decaf,,2,,1,Y,den_dcm_a_item_1_mod_1,den_dcm_a_item_1_mod_1_option_2,2,
+Breakfast Sausage,Breakfast Sausage,,3,,1,Y,den_dcm_a_item_15_mod_1,den_dcm_a_item_15_mod_1_option_1,1,
+Black Forest Ham,Black Forest Ham,,4,,1,Y,den_dcm_a_item_15_mod_1,den_dcm_a_item_15_mod_1_option_2,2,

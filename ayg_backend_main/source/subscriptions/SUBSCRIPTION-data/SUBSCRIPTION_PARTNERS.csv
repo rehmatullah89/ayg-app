@@ -1,0 +1,15 @@
+partnerName,partnerEmail,partnerDescription,isActive
+AMEX,amex@atyourgate.com,CC1,Y
+VISA,visa@atyourgate.com,CC1,Y
+MasterCard,master@atyourgate.com,CC1,Y
+Ken Burkett,ken@atyourgate.com,Cns,Y
+Amazon,amazon@atyourgate.com,mk1,Y
+McDonalds,macdonlads@atyourgate.com,mk1,Y
+Coke,coke@atyourgate.com,mk1,Y
+Pepsi,pepsi@atyourgate.com,mk1,Y
+Hilton,hilton@atyourgate.com,mk1,Y
+CLEAR,clear@atyourgate.com,mk1,Y
+VeriFLY,verify@atyourgate.com,ap1,Y
+Omnevo,omnevo@atyourgate.com,ap1,Y
+Sancti-fly,fly@atyourgate.com,tr1,Y
+SelectCard,test@atyourgate.com,tr1,N

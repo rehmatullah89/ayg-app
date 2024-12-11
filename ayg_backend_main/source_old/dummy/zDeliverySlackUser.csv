@@ -1,0 +1,2 @@
+airportIataCode,slackUserId,deliveryName,slackChannelName,slackURL,slackUsername,gender,SMSPhoneNumber,isActive,isDeleted
+WAW,testSlackUserId,deliveryName,WAW_Delivery,,testSlackUser,M,,Y,N

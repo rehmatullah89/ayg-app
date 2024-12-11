@@ -1,0 +1,308 @@
+{
+  "name": "airportsherpa_consumer",
+  "scripts": {
+  },
+  "env": {
+    "env_APIMaintenanceFlag": {
+      "required": true
+    },
+    "env_APIMaintenanceMessage": {
+      "required": true
+    },
+    "env_AppRestAPIKeyForLoadTesting": {
+      "required": true
+    },
+    "env_AppRestAPIKeySalt": {
+      "required": true
+    },
+    "env_AuthyAPIKey": {
+      "required": true
+    },
+    "env_BraintreeEnvironment": {
+      "required": true
+    },
+    "env_BraintreeMerchantId": {
+      "required": true
+    },
+    "env_BraintreePrivateKey": {
+      "required": true
+    },
+    "env_BraintreePublicKey": {
+      "required": true
+    },
+    "env_CacheEnabled": {
+      "required": true
+    },
+    "env_CacheRedisURL": {
+      "required": true
+    },
+    "env_EmailFromAddress": {
+      "required": true
+    },
+    "env_EmailFromName": {
+      "required": true
+    },
+    "env_EmailTemplatePath": {
+      "required": true
+    },
+    "env_EnvironmentDisplayCode": {
+      "required": true
+    },
+    "env_EnvironmentDisplayCodeNoProd": {
+      "required": true
+    },
+    "env_FlightStatsAppId": {
+      "required": true
+    },
+    "env_FlightStatsAppKey": {
+      "required": true
+    },
+    "env_FlightAwareUsername": {
+      "required": true
+    },
+    "env_FlightAwareAppKey": {
+      "required": true
+    },
+    "env_GooglePrintClientId": {
+      "required": true
+    },
+    "env_GooglePrintClientSecret": {
+      "required": true
+    },
+    "env_GooglePrintRefreshToken": {
+      "required": true
+    },
+    "env_HerokuSystemPath": {
+      "required": true
+    },
+    "env_InHerokuRun": {
+      "required": true
+    },
+    "env_IronMQConfig": {
+      "required": true
+    },
+    "env_IronMQConsumerDeadLetterQueueName": {
+      "required": true
+    },
+    "env_IronMQConsumerPrimaryQueueName": {
+      "required": true
+    },
+    "env_OmnivoreAPIKey": {
+      "required": true
+    },
+    "env_OneSignalAppId": {
+      "required": true
+    },
+    "env_OneSignalRestKey": {
+      "required": true
+    },
+    "env_OneSignalTemplateIds": {
+      "required": true
+    },
+    "env_OpenWeatherMapAPIKey": {
+      "required": true
+    },
+    "env_OpenWeatherMapAPIURL": {
+      "required": true
+    },
+    "env_ParseApplicationId": {
+      "required": true
+    },
+    "env_ParseMasterKey": {
+      "required": true
+    },
+    "env_ParseRestAPIKey": {
+      "required": true
+    },
+    "env_ParseServerURL": {
+      "required": true
+    },
+    "env_PasswordHashSalt": {
+      "required": true
+    },
+    "env_PaymentResponseEncryptionKey": {
+      "required": true
+    },
+    "env_RestAPITokenExpiryInMins": {
+      "required": true
+    },
+    "env_S3AccessKey": {
+      "required": true
+    },
+    "env_S3AccessSecret": {
+      "required": true
+    },
+    "env_S3BucketName": {
+      "required": true
+    },
+    "env_S3Endpoint": {
+      "required": true
+    },
+    "env_SendGridAPIKey": {
+      "required": true
+    },
+    "env_SherpaExternalAPIURL": {
+      "required": true
+    },
+    "env_SlackWH_orderForcedClosed": {
+      "required": true
+    },
+    "env_SlackWH_orderInvPrintDelay": {
+      "required": true
+    },
+    "env_SlackWH_orderNotifications": {
+      "required": true
+    },
+    "env_SlackWH_orderProcErrors": {
+      "required": true
+    },
+    "env_SlackWH_ordersBalVariance": {
+      "required": true
+    },
+    "env_SlackWH_posPingFail": {
+      "required": true
+    },
+    "env_SlackWH_orderHelp": {
+      "required": true
+    },
+    "env_SlimLogLevel": {
+      "required": true
+    },
+    "env_SQSConsumerAWSKey": {
+      "required": true
+    },
+    "env_SQSConsumerAWSSecret": {
+      "required": true
+    },
+    "env_SQSConsumerDeadLetterQueueName": {
+      "required": true
+    },
+    "env_SQSConsumerPrimaryQueueName": {
+      "required": true
+    },
+    "env_SQSConsumerQueueURL": {
+      "required": true
+    },
+    "env_RabbitMQAPIUrl": {
+      "required": true
+    },
+    "env_RabbitMQConfig": {
+      "required": true
+    },
+    "env_RabbitMQConfigUseSSL": {
+      "required": true
+    },
+    "env_RabbitMQConsumerPrimaryQueueName": {
+      "required": true
+    },
+    "env_StringInMotionEncryptionKey": {
+      "required": true
+    },
+    "env_TokenEncryptionKey": {
+      "required": true
+    },
+    "env_TripITOAuthConsumerKey": {
+      "required": true
+    },
+    "env_TripITOAuthConsumerSecret": {
+      "required": true
+    },
+    "env_TwilioPhoneNumber": {
+      "required": true
+    },
+    "env_TwilioSID": {
+      "required": true
+    },
+    "env_TwilioToken": {
+      "required": true
+    },
+    "env_WebRestAPIKeySalt": {
+      "required": true
+    },
+    "env_RetailerEarlyCloseMinWaitInSecs": {
+      "required": true
+    },
+    "env_TabletAppDefaultVibrateUsage": {
+      "required": true
+    },
+    "env_TabletAppDefaultPingIntervalInSecs": {
+      "required": true
+    },
+    "env_TabletAppDefaultNotificationSoundUrl": {
+      "required": true
+    },
+    "env_RetailerPOSStringInMotionEncryptionKey": {
+      "required": true
+    },
+    "env_RetailerPOSAppRestAPIKeySalt": {
+      "required": true
+    },
+    "env_TabletAppMultipleRetailerName": {
+      "required": true
+    },
+    "env_TabletAppMultipleRetailerLocationName": {
+      "required": true
+    },
+    "env_TabletAppMultipleRetailerLogoUrl": {
+      "required": true
+    },
+    "env_TabletBatteryCheckIntervalInSecs": {
+      "required": true
+    },
+    "env_mysqlLogsDataBaseHost": {
+      "required": true
+    },
+    "env_mysqlLogsDataBaseName": {
+      "required": true
+    },
+    "env_mysqlLogsDataBaseUser": {
+      "required": true
+    },
+    "env_mysqlLogsDataBasePassword": {
+      "required": true
+    },
+    "env_ParseMount": {
+      "required": true
+    },
+
+    "env_QueueType": {
+      "required": true
+    },
+    "ERROR_PAGE_URL": {
+      "required": true
+    },
+    "LOADERIO_API_KEY": {
+      "required": true
+    },
+    "MAINTENANCE_PAGE_URL": {
+      "required": true
+    },
+    "NEW_RELIC_APP_NAME": {
+      "required": true
+    },
+    "NEW_RELIC_CONFIG_FILE": {
+      "required": true
+    },
+    "NEW_RELIC_LICENSE_KEY": {
+      "required": true
+    },
+    "NEW_RELIC_LOG": {
+      "required": true
+    },
+    "PAPERTRAIL_API_TOKEN": {
+      "required": true
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+    "loaderio",
+    "newrelic",
+    "papertrail"
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/php"
+    }
+  ]
+}

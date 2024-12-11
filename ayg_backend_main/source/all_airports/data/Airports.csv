@@ -1,0 +1,75 @@
+airportName,airportCity,airportCountry,airportIataCode,airportIcaoCode,isReady,isPickupReady,isDeliveryReady,imageBackground,geoPointLocation,airportTimezone,employeeDiscountPCT,militaryDiscountPCT,pickupFeeInCents,serviceFeePCT,deliveryFeeInCents,employeeDeliveryFeeInCents
+Boston Logan International,Boston,United States,BOS,KBOS,Y,Y,Y,default.png,42.364347;-71.005181,America/New_York,0.18,0.1,0,0,499,299
+Denver International,Denver,United States,DEN,KDEN,Y,N,Y,default.png,39.861656;-104.673178,America/Denver,0.1,0.1,0,0,499,299
+Newark Liberty International,Newark,United States,EWR,KEWR,Y,Y,Y,default.png,40.6925;-74.168667,America/New_York,0.1,0.1,0,0,499,299
+John F Kennedy International,New York,United States,JFK,KJFK,Y,Y,Y,default.png,40.639751;-73.778925,America/New_York,0.2,0.2,0,0,499,299
+Minneapolis St Paul International,Minneapolis,United States,MSP,KMSP,Y,Y,Y,default.png,44.881956;-93.221767,America/Chicago,0.1,0.1,0,0,499,299
+Portland International,Portland,United States,PDX,KPDX,Y,Y,Y,default.png,45.588722;-122.5975,America/Los_Angeles,0.1,0.1,0,0,499,299
+San Diego International,San Diego,United States,SAN,KSAN,Y,Y,Y,default.png,32.733556;-117.189667,America/Los_Angeles,0.1,0.1,0,0,499,299
+LaGuardia New York,New York,United States,LGA,KLGA,Y,Y,Y,default.png,40.777245;-73.872608,America/New_York,0.02,0.02,0,0,499,299
+Los Angeles International,Los Angeles,United States,LAX,KLAX,N,N,N,default.png,33.942536;-118.408075,America/Los_Angeles,0.15,0.15,0,0,499,299
+Albuquerque International,Albuquerque,United States,ABQ,KABQ,N,N,N,default.png,35.0402222;-106.6091944,America/Denver,0.02,0.02,0,0,499,299
+Ted Stevens Anchorage International,Anchorage,United States,ANC,PANC,N,N,N,default.png,61.174361;-149.996361,America/Anchorage,0.02,0.02,0,0,499,299
+Hartsfield Jackson Atlanta International,Atlanta,United States,ATL,KATL,N,N,N,default.png,33.636719;-84.428067,America/New_York,0.02,0.02,0,0,499,299
+Aruba Queen Beatrix International,Aruba,Netherlands,AUA,TNCA,N,N,N,default.png,12.501389;-70.015221,America/New_York,0.02,0.02,0,0,499,299
+Austin Bergstrom International,Austin,United States,AUS,KAUS,N,N,N,default.png,30.194528;-97.669889,America/Chicago,0.02,0.02,0,0,499,299
+Baudette International,Baudette,United States,BDE,KBDE,N,N,N,default.png,48.728444;-94.612222,America/Chicago,0.02,0.02,0,0,499,299
+Bradley International,Hartford,United States,BDL,KBDL,N,N,N,default.png,41.938889;-72.683222,America/New_York,0.02,0.02,0,0,499,299
+Nashville International,Nashville,United States,BNA,KBNA,N,N,N,default.png,36.124472;-86.678194,America/Chicago,0.02,0.02,0,0,499,299
+Buffalo Niagara International,Buffalo,United States,BUF,KBUF,N,N,N,default.png,42.940525; -78.732167,America/New_York,0.02,0.02,0,0,499,299
+Bob Hope Hollywood,Burbank,United States,BUR,KBUR,N,N,N,default.png,34.200667; -118.358667,America/Los_Angeles,0.02,0.02,0,0,499,299
+Baltimore/Washington International Thurgood Marshall,Baltimore,United States,BWI,KBWI,N,N,N,default.png,39.175361;-76.668333,America/New_York,0.1,0.1,0,0,499,299
+Cleveland Hopkins International,Cleveland,United States,CLE,KCLE,N,N,N,default.png,41.411689;-81.849794,America/New_York,0.02,0.02,0,0,499,299
+Charlotte Douglas International,Charlotte,United States,CLT,KCLT,N,N,N,default.png,35.214;-80.943139,America/New_York,0.02,0.02,0,0,499,299
+John Glenn Columbus International,Columbus,United States,CMH,KCMH,N,N,N,default.png,39.997972;-82.891889,America/New_York,0.02,0.02,0,0,499,299
+Cancun International,Cancun,Mexico,CUN,MMUN,N,N,N,default.png,21.036528;-86.877083,America/New_York,0.02,0.02,0,0,499,299
+Cincinnati/Northern Kentucky International Airport,Cincinnati,United States,CVG,KCVG,N,N,N,default.png,39.048836;-84.667822,America/New_York,0.02,0.02,0,0,499,299
+Dallas Love Field,Dallas,United States,DAL,KDAL,N,N,N,default.png,32.847111;-96.851778,America/Chicago,0.02,0.02,0,0,499,299
+Ronald Reagan Washington National,Washington,United States,DCA,KDCA,N,N,N,default.png,38.852083;-77.037722,America/New_York,0.02,0.02,0,0,499,299
+Dallas Fort Worth International,Dallas-Fort Worth,United States,DFW,KDFW,N,N,N,default.png,32.896828;-97.037997,America/Chicago,0.02,0.02,0,0,499,299
+Detroit Metropolitan Wayne County,Detroit,United States,DTW,KDTW,N,N,N,default.png,42.212444;-83.353389,America/New_York,0.02,0.02,0,0,499,299
+Fort Lauderdale Hollywood International,Fort Lauderdale,United States,FLL,KFLL,N,N,N,default.png,26.072583;-80.15275,America/New_York,0.02,0.02,0,0,499,299
+Frankfurt Airport,Frankfurt,Germany,FRA,EDDF,N,N,N,default.png,50.026421;8.543125,Europe/Berlin,0.02,0.02,0,0,499,299
+Honolulu International,Honolulu,United States,HNL,PHNL,N,N,N,default.png,21.318681;-157.922428,Pacific/Honolulu,0.02,0.02,0,0,499,299
+William P Hobby Houston,Houston,United States,HOU,KHOU,N,N,N,default.png,29.645419;-95.278889,America/Chicago,0.02,0.02,0,0,499,299
+Washington Dulles International,Washington,United States,IAD,KIAD,N,N,N,default.png,38.944533;-77.455811,America/New_York,0.02,0.02,0,0,499,299
+George Bush Intercontinental Houston,Houston,United States,IAH,KIAH,N,N,N,default.png,29.984433;-95.341442,America/Chicago,0.02,0.02,0,0,499,299
+Indianapolis International,Indianapolis,United States,IND,KIND,N,N,N,default.png,39.717331;-86.294383,America/New_York,0.02,0.02,0,0,499,299
+Long Island Mac Arthur,Islip,United States,ISP,KISP,N,N,N,default.png,40.79525; -73.100222,America/New_York,0.02,0.02,0,0,499,299
+Jacksonville International,Jacksonville,United States,JAX,KJAX,N,N,N,default.png,30.494056;-81.687861,America/New_York,0.02,0.02,0,0,499,299
+Las Vegas McCarran International,Las Vegas,United States,LAS,KLAS,N,N,N,default.png,36.080056;-115.15225,America/Los_Angeles,0.02,0.02,0,0,499,299
+Heathrow Airport,London,United Kingdon,LHR,EGLL,N,N,N,default.png,51.4775;-0.461389,Europe/London,0.02,0.02,0,0,499,299
+Kansas City International,Kansas City,United States,MCI,KMCI,N,N,N,default.png,39.297606;-94.713905,America/Chicago,0.02,0.02,0,0,499,299
+Orlando International,Orlando,United States,MCO,KMCO,N,N,N,default.png,28.429394;-81.308994,America/New_York,0.02,0.02,0,0,499,299
+Chicago Midway International,Chicago,United States,MDW,KMDW,N,N,N,default.png,41.785972;-87.752417,America/Chicago,0.02,0.02,0,0,499,299
+Memphis International,Memphis,United States,MEM,KMEM,N,N,N,default.png,35.042417;-89.976667,America/Chicago,0.02,0.02,0,0,499,299
+Miami International,Miami,United States,MIA,KMIA,N,N,N,default.png,25.79325;-80.290556,America/New_York,0.02,0.02,0,0,499,299
+Milwaukee General Mitchell International,Milwaukee,United States,MKE,KMKE,N,N,N,default.png,42.947222;-87.896583,America/Chicago,0.02,0.02,0,0,499,299
+Louis Armstrong New Orleans International,New Orleans,United States,MSY,KMSY,N,N,N,default.png,29.993389;-90.258028,America/Chicago,0.02,0.02,0,0,499,299
+Lynden Pindling International,Nassau,Bahamas,NAS,MYNN,N,N,N,default.png,25.038958;-77.466231,America/New_York,0.02,0.02,0,0,499,299
+Metropolitan Oakland International,Oakland,United States,OAK,KOAK,N,N,N,default.png,37.721278;-122.220722,America/Los_Angeles,0.02,0.02,0,0,499,299
+Kahului Hawaii,Kahului,United States,OGG,PHOG,N,N,N,default.png,20.89865;-156.430458,Pacific/Honolulu,0.02,0.02,0,0,499,299
+Will Rogers World,Oklahoma City,United States,OKC,KOKC,N,N,N,default.png,35.393089; -97.600733,America/Chicago,0.02,0.02,0,0,499,299
+Eppley Airfield Omaha,Omaha,United States,OMA,KOMA,N,N,N,default.png,41.303167;-95.894069,America/Chicago,0.02,0.02,0,0,499,299
+Ontario International,Ontario,United States,ONT,KONT,N,N,N,default.png,34.056;-117.601194,America/Los_Angeles,0.02,0.02,0,0,499,299
+Chicago O'Hare International,Chicago,United States,ORD,KORD,N,N,N,default.png,41.978603;-87.904842,America/Chicago,0.02,0.02,0,0,499,299
+Palm Beach International,West Palm Beach,United States,PBI,KPBI,N,N,N,default.png,26.683161;-80.095589,America/New_York,0.02,0.02,0,0,499,299
+Philadelphia International,Philadelphia,United States,PHL,KPHL,N,N,N,default.png,39.871944;-75.241139,America/New_York,0.02,0.02,0,0,499,299
+Phoenix Sky Harbor International,Phoenix,United States,PHX,KPHX,N,N,N,default.png,33.434278;-112.011583,America/Phoenix,0.02,0.02,0,0,499,299
+Pittsburgh International,Pittsburgh,United States,PIT,KPIT,N,N,N,default.png,40.491467;-80.232872,America/New_York,0.1,0.1,0,0,499,299
+T.F. Green Airport,Providence,United States,PVD,KPVD,N,N,N,default.png,41.732581; -71.420383,America/New_York,0.02,0.02,0,0,499,299
+Raleigh Durham International,Raleigh/Durham,United States,RDU,KRDU,N,N,N,default.png,35.877639;-78.787472,America/New_York,0.02,0.02,0,0,499,299
+Southwest Florida International,Fort Myers,United States,RSW,KRSW,N,N,N,default.png,26.536167;-81.755167,America/New_York,0.02,0.02,0,0,499,299
+San Antonio International,San Antonio,United States,SAT,KSAT,N,N,N,default.png,29.533694;-98.469778,America/Chicago,0.02,0.02,0,0,499,299
+Louisville International,Louisville,United States,SDF,KSDF,N,N,N,default.png,38.1740858;-85.7364989,America/New_York,0.02,0.02,0,0,499,299
+Seattle Tacoma International,Seattle,United States,SEA,KSEA,N,N,N,default.png,47.449;-122.309306,America/Los_Angeles,0.02,0.02,0,0,499,299
+San Francisco International,San Francisco,United States,SFO,KSFO,N,N,N,default.png,37.618972;-122.374889,America/Los_Angeles,0.02,0.02,0,0,499,299
+Mineta San Jose International Airport,San Jose,United States,SJC,KSJC,N,N,N,default.png,37.3626;-121.929022,America/Los_Angeles,0.02,0.02,0,0,499,299
+San Juan Luis Munoz Martin International,San Juan,Puerto Rico,SJU,TJSJ,N,N,N,default.png,18.439417;-66.001833,America/Puerto_Rico,0.02,0.02,0,0,499,299
+Salt Lake City International,Salt Lake City,United States,SLC,KSLC,N,N,N,default.png,40.788389;-111.977772,America/Denver,0.02,0.02,0,0,499,299
+Sacramento International,Sacramento,United States,SMF,KSMF,N,N,N,default.png,38.695417;-121.590778,America/Los_Angeles,0.02,0.02,0,0,499,299
+John Wayne Orange County,Santa Ana,United States,SNA,KSNA,N,N,N,default.png,33.675667;-117.868222,America/Los_Angeles,0.02,0.02,0,0,499,299
+Lambert St Louis International,St Louis,United States,STL,KSTL,N,N,N,default.png,38.748697;-90.370028,America/Chicago,0.02,0.02,0,0,499,299
+Tampa International,Tampa,United States,TPA,KTPA,N,N,N,default.png,27.975472;-82.53325,America/New_York,0.02,0.02,0,0,499,299
+Tulsa International,Tulsa,United States,TUL,KTUL,N,N,N,default.png,36.198389; -95.888111,America/Chicago,0.02,0.02,0,0,499,299
+Toronto Pearson International,Toronto,Canada,YYZ,CYYZ,N,N,N,default.png,43.677223;-79.630556,America/New_York,0.02,0.02,0,0,499,299

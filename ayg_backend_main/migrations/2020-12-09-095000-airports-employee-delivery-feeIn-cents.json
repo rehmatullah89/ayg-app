@@ -1,0 +1,13 @@
+{
+  "class": "Airlines",
+  "action": "add_column",
+  "column": {
+    "name": "employeeDeliveryFeeInCents",
+    "type": "number",
+    "default": 299,
+    "isRequired": false
+  },
+  "additionalActions":[
+    "php all_airports/refreshCache_Airports.php"
+  ]
+}

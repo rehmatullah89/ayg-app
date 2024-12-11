@@ -1,0 +1,85 @@
+airportIataCode,terminal,terminalDisplayName,concourse,concourseDisplayName,gate,locationDisplayName,gateDisplayName,displaySequence,geoPointLocation,isDefaultLocation,includeInGateMap,gpsRangeInMeters,isPresecurityLocation,requiresDeliveryInstructions,deliveryLimitedToPerHourOffset
+EWR,A,Terminal A,A1,Gates 10-18,0,TSA Checkpoint (A1),TSA Checkpoint (A1),6,40.68794250224763; -74.18254089546376,Y,Y,50,N,N,0
+EWR,A,Terminal A,A1,Gates 10-18,10,10/11,Gates 10/11,1,40.687023749683924; -74.1851746584581,N,Y,50,N,N,0
+EWR,A,Terminal A,A1,Gates 10-18,12,12/13,Gates 12/13,2,40.68702436642101; -74.18517289047847,N,Y,50,N,N,0
+EWR,A,Terminal A,A1,Gates 10-18,14,14/15,Gates 14/15,3,40.68702560532735; -74.18516933894693,N,Y,50,N,N,0
+EWR,A,Terminal A,A1,Gates 10-18,16,16/17,Gates 16/17,4,40.68702674508744; -74.1851660716347,N,Y,50,N,N,0
+EWR,A,Terminal A,A1,Gates 10-18,18,18,Gate 18,5,40.687026856138765; -74.18516575328755,N,Y,50,N,N,0
+EWR,A,Terminal A,A2,Gates 20-28,0,TSA Checkpoint (A2),TSA Checkpoint (A2),6,40.6879178554693; -74.18255139206616,Y,Y,50,N,N,0
+EWR,A,Terminal A,A2,Gates 20-28,20,20/21,Gates 20/21,1,"40.686323, -74.182948",N,Y,50,N,N,0
+EWR,A,Terminal A,A2,Gates 20-28,22,22/23,Gates 22/23,2,"40.686046, -74.183087",N,Y,50,N,N,0
+EWR,A,Terminal A,A2,Gates 20-28,24,24/25,Gates 24/25,3,"40.685867, -74.182778",N,Y,50,N,N,0
+EWR,A,Terminal A,A2,Gates 20-28,26,26/27,Gates 26/27,4,"40.686011, -74.182470",N,Y,50,N,N,0
+EWR,A,Terminal A,A2,Gates 20-28,28,28,Gate 28,5,"40.686265, -74.182481",N,Y,50,N,N,0
+EWR,A,Terminal A,A3,Gates 30-39,0,TSA Checkpoint (A3),TSA Checkpoint (A3),6,40.68794250488352; -74.18254089355413,Y,Y,50,N,N,0
+EWR,A,Terminal A,A3,Gates 30-39,30,30/31,Gates 30/31,1,40.686628058740425; -74.1800158762642,N,Y,50,N,N,0
+EWR,A,Terminal A,A3,Gates 30-39,32,32/33,Gates 32/33,2,40.68659155157006; -74.18000037679982,N,Y,50,N,N,0
+EWR,A,Terminal A,A3,Gates 30-39,34,34/35,Gates 34/35,3,40.686551181896476; -74.17998284517586,N,Y,50,N,N,0
+EWR,A,Terminal A,A3,Gates 30-39,36,36/37,Gates 36/37,4,40.68655672855549; -74.17998525889118,N,Y,50,N,N,0
+EWR,A,Terminal A,A3,Gates 30-39,38,38/39,Gates 38/39,5,40.6865488244854; -74.1799818217166,N,Y,50,N,N,0
+EWR,A,Terminal A,Pre-Security,Pre-Security,-1,Airtrain Entrance,Airtrain Entrance,1,40.6872299376467; -74.18221833140444,Y,Y,50,Y,N,0
+EWR,A,Terminal A,Pre-Security,Pre-Security,-2,Bldg 351 Redevelopment Offices,Bldg 351 Redevelopment Offices,2,40.68992072959011; -74.18324093762313,N,Y,50,Y,N,0
+EWR,A,Terminal A,Pre-Security,Pre-Security,-3,Bldg 352 Redevelopment Offices,Bldg 352 Redevelopment Offices,3,40.689971125079204; -74.18310061232549,N,Y,50,Y,N,0
+EWR,A,Terminal A,Pre-Security,Pre-Security,-4,ASA Baggage Office,ASA Baggage Office,4,40.68794184244319; -74.18253965229759,N,Y,50,Y,N,0
+EWR,A,Terminal A,Pre-Security,Pre-Security,-5,AAL Credit Union,AAL Credit Union,5,40.687939786949954; -74.18254270146555,N,Y,50,Y,N,0
+EWR,A,Terminal A,Pre-Security,Pre-Security,-6,AAL Baggage Office,AAL Baggage Office,6,40.68794103944444; -74.18254190734076,N,Y,50,Y,N,0
+EWR,A,Terminal A,Pre-Security,Pre-Security,-7,JBU Baggage Office,JBU Baggage Office,7,40.6879417825173; -74.18254140208244,N,Y,50,Y,N,0
+EWR,A,Terminal A,Pre-Security,Pre-Security,-8,JBU Ticket Counter,JBU Ticket Counter,8,40.68794250511925; -74.18254089338629,N,Y,50,Y,N,0
+EWR,A,Terminal A,Pre-Security,Pre-Security,-9,ACA Ticket Counter,ACA Ticket Counter,9,40.687942505057656; -74.1825408934297,N,Y,50,Y,N,0
+EWR,A,Terminal A,Pre-Security,Pre-Security,-10,AAL Ticket Counter,AAL Ticket Counter,10,40.687942504904115; -74.1825408935394,N,Y,50,Y,N,0
+EWR,A,Terminal A,Pre-Security,Pre-Security,-11,ASA Ticket Counter,ASA Ticket Counter,11,40.68794250488879; -74.18254089355037,N,Y,50,Y,N,0
+EWR,A,Terminal A,Pre-Security,Pre-Security,-12,TSA Training,TSA Training,12,40.687942504884326; -74.18254089355356,N,Y,50,Y,N,0
+EWR,B,Terminal B,B1,Gates 40-47,0,TSA Checkpoint (B1),TSA Checkpoint (B1),10,40.69060915244805; -74.17728261597267,Y,Y,50,N,N,0
+EWR,B,Terminal B,B1,Gates 40-47,-1,Delta Office (Post-Security),Delta Office (Post-Security),9,40.688046317053406; -74.17706049394337,N,Y,50,N,Y,0
+EWR,B,Terminal B,B1,Gates 40-47,-2,Starbucks (Post-Security),Starbucks (Post-Security),8,40.68728125794963; -74.17752985248681,N,Y,50,N,N,0
+EWR,B,Terminal B,B1,Gates 40-47,40,40,Gate 40,1,40.68802755009799; -74.1770521239755,N,Y,50,N,N,0
+EWR,B,Terminal B,B1,Gates 40-47,41,41,Gate 41,2,40.68803444469127; -74.17704755536256,N,Y,50,N,N,0
+EWR,B,Terminal B,B1,Gates 40-47,42,42,Gate 42,3,40.68803551536698; -74.17704686510494,N,Y,50,N,N,0
+EWR,B,Terminal B,B1,Gates 40-47,44,44,Gate 44,4,40.68803429078596; -74.17704758965917,N,Y,50,N,N,0
+EWR,B,Terminal B,B1,Gates 40-47,45,45,Gate 45,5,40.68803430948144; -74.17704757757167,N,Y,50,N,N,0
+EWR,B,Terminal B,B1,Gates 40-47,46,46,Gate 46,6,40.68803417001415; -74.17704766163284,N,Y,50,N,N,0
+EWR,B,Terminal B,B1,Gates 40-47,47,47,Gate 47,7,40.68803410850132; -74.17704769875363,N,Y,50,N,N,0
+EWR,B,Terminal B,B2,Gates 51-57,0,TSA Checkpoint (B2),TSA Checkpoint (B2),5,40.690609051929925; -74.17728351071594,Y,Y,50,N,N,0
+EWR,B,Terminal B,B2,Gates 51-57,51,51,Gate 51,1,40.68995599715075; -74.17548471247486,N,Y,50,N,N,0
+EWR,B,Terminal B,B2,Gates 51-57,52,52/53,Gates 52/53,2,40.689954806676724; -74.1754844123109,N,Y,50,N,N,0
+EWR,B,Terminal B,B2,Gates 51-57,54,54/55,Gates 54/55,3,40.689956005192265; -74.17548922184776,N,Y,50,N,N,0
+EWR,B,Terminal B,B2,Gates 51-57,56,56/57,Gates 56/57,4,40.68995638907816; -74.17549047481519,N,Y,50,N,N,0
+EWR,B,Terminal B,B3,Gates 63-68,63,63,Gate 63,2,40.6919407463132; -74.17411695482332,N,Y,50,N,N,0
+EWR,B,Terminal B,B3,Gates 63-68,62,62,Gate 62,1,40.6919406859508; -74.17411710890778,N,Y,50,N,N,0
+EWR,B,Terminal B,B3,Gates 63-68,64,64/65,Gate 64/65,3,40.69194040725339; -74.17411779665518,N,Y,50,N,N,0
+EWR,B,Terminal B,B3,Gates 63-68,66,66/67,Gates 66/67,4,40.69194033685887; -74.174117970027,N,Y,50,N,N,0
+EWR,B,Terminal B,B3,Gates 63-68,68,68,Gate 68,5,40.69194031413499; -74.17411802595649,N,Y,50,N,N,0
+EWR,B,Terminal B,B3,Gates 63-68,-1,America (B3),America (B3),6,40.69190342364577; -74.17420844850916,N,Y,50,N,N,0
+EWR,B,Terminal B,B3,Gates 63-68,-2,InMotion (B3),InMotion (B3),7,40.69178185259652; -74.17450661254426,N,Y,50,N,N,0
+EWR,B,Terminal B,B3,Gates 63-68,0,TSA Checkpoint (B3),TSA Checkpoint (B3),8,40.69060903694229; -74.17728364412554,Y,Y,50,N,N,0
+EWR,B,Terminal B,Pre-Security,Pre-Security,-1,Building 74,Building 74,13,40.693983350486995; -74.17723293140018,N,Y,50,Y,N,0
+EWR,B,Terminal B,Pre-Security,Pre-Security,-2,International Arrivals,International Arrivals,12,40.690608969999985; -74.17728423999998,N,Y,50,Y,N,0
+EWR,B,Terminal B,Pre-Security,Pre-Security,-3,CBP Office,CBP Office,11,40.690608969999985; -74.17728423999998,N,Y,50,Y,N,0
+EWR,B,Terminal B,Pre-Security,Pre-Security,-4,AtYourGate Office,AtYourGate Office,14,40.690608971532015; -74.17728422636289,N,Y,50,Y,N,0
+EWR,B,Terminal B,Pre-Security,Pre-Security,-5,Airline Services Desk,Airline Services Desk,10,40.6906089700209; -74.17728423981391,N,Y,50,Y,N,0
+EWR,B,Terminal B,Pre-Security,Pre-Security,-6,Spirit Ticket Counter,Spirit Ticket Counter,9,40.69060896970989; -74.17728424258199,N,Y,50,Y,N,0
+EWR,B,Terminal B,Pre-Security,Pre-Security,-7,Bravo Desk,Bravo Desk,8,40.69060896970989; -74.17728424258199,N,Y,50,Y,N,0
+EWR,B,Terminal B,Pre-Security,Pre-Security,-8,Global Entry,Global Entry,7,40.690625755461866; -74.17727649673802,N,Y,50,Y,N,0
+EWR,B,Terminal B,Pre-Security,Pre-Security,-9,Delta Baggage,Delta Baggage,6,40.690650963696186; -74.17726486303015,N,Y,50,Y,N,0
+EWR,B,Terminal B,Pre-Security,Pre-Security,-10,Security ID Office,Security ID Office,5,40.69036095907143; -74.17959599980243,N,Y,50,Y,Y,0
+EWR,B,Terminal B,Pre-Security,Pre-Security,-11,Delta Ticket Counter (Domestic),Delta Ticket Counter (Domestic),4,40.69041512848329; -74.1790096840281,N,Y,50,Y,N,0
+EWR,B,Terminal B,Pre-Security,Pre-Security,-12,Lufthansa Ticket Counter,Lufthansa Ticket Counter,3,40.69060897243681; -74.17728421830907,N,Y,50,Y,N,0
+EWR,B,Terminal B,Pre-Security,Pre-Security,-13,Relax & Recharge,Relax & Recharge,2,40.690608969635186; -74.1772842432472,N,Y,50,Y,Y,0
+EWR,B,Terminal B,Pre-Security,Pre-Security,-14,Airtrain Entrance,Airtrain Entrance,1,40.69060896998421; -74.17728424014042,Y,Y,50,Y,N,0
+EWR,C,Terminal C,Pre-Security,Pre-Security,-1,Airtrain Entrance,Airtrain Entrance,1,40.695327970145236; -74.17784150355767,Y,Y,50,Y,N,0
+EWR,C,Terminal C,Pre-Security,Pre-Security,-2,Exit Lane (C3),Exit Lane (C3),4,40.695327816173496; -74.17784127260009,N,Y,50,Y,Y,0
+EWR,C,Terminal C,Pre-Security,Pre-Security,-3,UA Ticket (L3 D3),UA Ticket (L3 D3),14,40.69532776743429; -74.17784119949127,N,Y,50,Y,N,0
+EWR,C,Terminal C,Pre-Security,Pre-Security,-4,UA Ticket (L3 D1),UA Ticket (L3 D1),13,40.695327758884545; -74.17784118666667,N,Y,50,Y,N,0
+EWR,C,Terminal C,Pre-Security,Pre-Security,-5,United Recruiting Office,United Recruiting Office,9,40.69532325408171; -74.1778344294636,N,Y,50,Y,N,0
+EWR,C,Terminal C,Pre-Security,Pre-Security,-6,TSA Exit Lane (C1),TSA Exit Lane (C1),2,40.695332212911595; -74.17784786770656,N,Y,50,Y,N,0
+EWR,C,Terminal C,Pre-Security,Pre-Security,-7,Starbucks (Pre-Security L2),Starbucks (Pre-Security L2),8,40.69531717112916; -74.17782533399294,N,Y,50,Y,N,0
+EWR,C,Terminal C,Pre-Security,Pre-Security,-8,UA Ticket (L2 D1),UA Ticket (L2 D1),10,40.6951474876167; -74.17757078423287,N,Y,50,Y,N,0
+EWR,C,Terminal C,Pre-Security,Pre-Security,-9,ABM Office,ABM Office,7,40.69514464883625; -74.17756652164196,N,Y,50,Y,N,0
+EWR,C,Terminal C,Pre-Security,Pre-Security,-10,UA Ticket (L2 D2),UA Ticket (L2 D2),11,40.69514534538224; -74.17756756874006,N,Y,50,Y,N,0
+EWR,C,Terminal C,Pre-Security,Pre-Security,-11,UA Ticket (L2 D3),UA Ticket (L2 D3),12,40.69514470733832; -74.17756661011589,N,Y,50,Y,N,0
+EWR,C,Terminal C,Pre-Security,Pre-Security,-12,United Office (L2 D5),United Office (L2 D5),15,40.69514693071706; -74.17755346322319,N,Y,50,Y,N,0
+EWR,C,Terminal C,Pre-Security,Pre-Security,-13,Carousel 9,Carousel 9,6,40.69514539596654; -74.17756226790418,N,Y,50,Y,Y,0
+EWR,C,Terminal C,Pre-Security,Pre-Security,-14,Clear Office,Clear Office,5,40.69514460526777; -74.17756680398857,N,Y,50,Y,N,0
+EWR,C,Terminal C,Pre-Security,Pre-Security,-15,TSA Lane 19 (C2),TSA Lane 19 (C2),3,40.69532816632256; -74.17784179782362,N,Y,50,Y,Y,0
+EWR,P3,P3 Car Rental Counters,P3,Car Rental Counters,-1,Car Rental Counters,Car Rental Counters,1,40.68985810037086; -74.18593210746273,Y,Y,50,Y,Y,0
+EWR,P4,P4 Daily Parking,P4,Daily Parking,-1,Daily Parking Garage,Daily Parking Garage,1,40.69441987213865; -74.1817245424147,Y,Y,50,Y,Y,0

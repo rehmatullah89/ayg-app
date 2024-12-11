@@ -1,0 +1,12 @@
+modifierPOSName,modifierDisplayName,modifierDisplayDescription,modifierId,maxQuantity,minQuantity,isRequired,isActive,uniqueRetailerItemId,uniqueId,modifierDisplaySequence,version
+Choose,Choose,,1,1,1,Y,Y,den_dcm_a_item_1,den_dcm_a_item_1_mod_1,1,
+Customize,Customize,,2,0,0,N,Y,den_dcm_a_item_1,den_dcm_a_item_1_mod_2,2,
+Customize,Customize,,3,0,0,N,Y,den_dcm_a_item_2,den_dcm_a_item_2_mod_1,1,
+Customize,Customize,,4,0,0,N,Y,den_dcm_a_item_3,den_dcm_a_item_3_mod_1,1,
+Customize,Customize,,5,0,0,N,Y,den_dcm_a_item_4,den_dcm_a_item_4_mod_1,1,
+Customize,Customize,,6,0,0,N,Y,den_dcm_a_item_5,den_dcm_a_item_5_mod_1,1,
+Customize,Customize,,7,0,0,N,Y,den_dcm_a_item_6,den_dcm_a_item_6_mod_1,1,
+Customize,Customize,,8,0,0,N,Y,den_dcm_a_item_7,den_dcm_a_item_7_mod_1,1,
+Protein,Protein,,9,1,1,Y,Y,den_dcm_a_item_15,den_dcm_a_item_15_mod_1,1,
+Customize,Customize,,10,0,0,N,Y,den_dcm_a_item_24,den_dcm_a_item_24_mod_1,1,
+Customize,Customize,,11,0,0,N,Y,den_dcm_a_item_25,den_dcm_a_item_25_mod_1,1,

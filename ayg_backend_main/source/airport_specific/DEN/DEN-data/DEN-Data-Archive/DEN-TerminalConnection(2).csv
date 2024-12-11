@@ -1,0 +1,7 @@
+fromTerminal,fromConcourse,toTerminal,toConcourse,fromTerminalLastGate,toTerminalFirstGate,nextTerminalDistanceUnits,flagToRenterSecurity,connectionText
+A,,B,,-4,-2,36,N,
+A,,C,,-4,-1,72,N,
+B,,A,,-2,-4,36,N,
+B,,C,,-2,-1,36,N,
+C,,A,,-1,-4,72,N,
+C,,B,,-1,-2,36,N,

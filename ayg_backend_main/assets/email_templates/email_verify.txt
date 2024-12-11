@@ -1,0 +1,17 @@
+
+
+[{greeting}] [{first_name}]
+
+Welcome to AtYourGate. Let's confirm your email address.
+
+By clicking on the following link, you are confirming the ownership of this email address and agreeing to AtYourGate's <a href="https://atyourgate.com/privacy-policy/">End User Agreement and Privacy Policy</a>.
+
+<a href="https://[{url}]" target="_blank">Confirm email address</a>
+
+
+Copyright [{copyright_year}] AtYourGate.
+
+AtYourGate, Inc.
+4 Half Moon Trail, Ladera Ranch, CA 92694
+
+https://www.atyourgate.com

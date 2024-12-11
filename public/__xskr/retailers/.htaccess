@@ -1,0 +1,15 @@
+AuthType Basic
+AuthName "Restricted Content"
+AuthUserFile /etc/apache2/.htpasswd_admin
+Require user Mike
+
+
+<FilesMatch "\.html$">
+    AddType application/x-httpd-php .html
+    ForceType application/x-httpd-php
+</FilesMatch>
+
+
+# RewriteEngine On
+# RewriteCond %{REQUEST_FILENAME} !-f
+# RewriteRule ^ process.php [QSA,L]

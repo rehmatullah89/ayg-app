@@ -1,0 +1,14 @@
+{
+     "require": {
+		"php": "~7.3.0",
+		"nategood/httpful": "*",
+		"jsor/hal-client": "2.*",
+		"guzzlehttp/guzzle": "~6.0"
+      },
+	"extra": {
+         "heroku": {
+             "document-root": "v1",
+             "index-document": "index.php"
+         }
+     }
+}

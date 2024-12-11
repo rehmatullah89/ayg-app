@@ -1,0 +1,5 @@
+web: vendor/bin/heroku-php-apache2 -F fpm_custom.conf public/
+queueworker: php scheduled/_worker_queue.php
+looperworker: php scheduled/_worker_looper.php
+looperworker2: php scheduled/_worker_looper_2.php
+looperworker3: php scheduled/_worker_looper_3.php

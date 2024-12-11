@@ -1,0 +1,25 @@
+{
+  "itemPrice": 100,
+  "itemPOSName": "Bagel",
+  "itemDisplayDescription": "A delicious bagel with your favorite cream cheese spread. Enjoy with your favorite morning coffee! (300+ cal)Please select your bagel type upon arrival.",
+  "itemCategoryName": [
+    "Donuts and Pastries"
+  ],
+  "itemDisplaySequence": [
+    1
+  ],
+  "allowedThruSecurity": [
+    "Y"
+  ],
+  "itemTimes": {
+    "restrictOrderTimes": []
+  },
+  "modifiers": {
+    "modifierId": [],
+    "modifierPOSName": [],
+    "maxQuantity": [],
+    "minQuantity": [],
+    "isRequired": [],
+    "options": []
+  }
+}

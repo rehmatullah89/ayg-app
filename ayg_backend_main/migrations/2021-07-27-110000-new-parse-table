@@ -1,0 +1,6 @@
+OrderDeliveryPlan
+
+weekDay - number (required)
+startingTime - string
+endingTime - string
+airportIataCode - string (required)

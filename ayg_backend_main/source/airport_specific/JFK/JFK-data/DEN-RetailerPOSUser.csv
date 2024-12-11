@@ -1,0 +1,9 @@
+retailerUniqueId,tabletUserEmail,tabletUserPassword,authPhoneNumber,isAdminUser,comments
+d85ad4c530731e05e4c5b924b376f96f,mcdonaldsden@atyourgate.com,password,0048695671680,N,McDonalds-3
+87cfcb12e0adc902ef8bcd73c98bf286,denmarket@atyourgate.com,password,0048695671680,N,DCM
+f90cb4bf1cc2b1d6bb41369def6fc3af,einsteinsden@atyourgate.com,password,0048695671680,N,Einstein
+6b65590c2a68b03c699abbf4b8d8e45d,garbanzos@atyourgate.com,password,0048695671680,N,Garbanzos
+55332fb06a8e00a439e8785aac528da7,root@atyourgate.com,password,0048695671680,N,RootDown
+ed297b1ddf43a9b1986688fb3e4c450f,timberline@atyourgate.com,password,0048695671680,N,Timberline
+20cf766845ccdca412a5e603991a7d3c,vinoden@atyourgate.com,password,0048695671680,N,VinoVolo
+e06caa720e533dff5279d3f6edd8bcdd,hut@atyourgate.com,password,0048695671680,N,PizzaHut

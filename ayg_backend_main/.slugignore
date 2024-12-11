@@ -1,0 +1,10 @@
+*.md
+composer.phar
+log.error
+*.sh
+local/
+aws/
+admin/
+tests/functions/admin/
+migrations/
+documentation/

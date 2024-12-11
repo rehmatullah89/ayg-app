@@ -1,0 +1,12 @@
+modifierPOSName,modifierDisplayName,modifierDisplayDescription,modifierId,maxQuantity,minQuantity,isRequired,isActive,uniqueRetailerItemId,uniqueId,modifierDisplaySequence,version
+Add to Any Salad,,,1,0,0,N,N,den_rootdown_c_item_5,den_rootdown_c_item_5_mod_1,1,
+Customize,,,2,0,0,N,N,den_rootdown_c_item_8,den_rootdown_c_item_8_mod_1,1,
+Customize,,,3,0,0,N,N,den_rootdown_c_item_9,den_rootdown_c_item_9_mod_1,1,
+Customize,,,4,0,0,N,N,den_rootdown_c_item_10,den_rootdown_c_item_10_mod_1,1,
+Customize,,,5,0,0,N,N,den_rootdown_c_item_12,den_rootdown_c_item_12_mod_1,1,
+Customize,,,6,0,0,N,N,den_rootdown_c_item_13,den_rootdown_c_item_13_mod_1,1,
+Customize,,,7,0,0,N,N,den_rootdown_c_item_14,den_rootdown_c_item_14_mod_1,1,
+Temperature,,,8,1,1,Y,N,den_rootdown_c_item_15,den_rootdown_c_item_15_mod_1,1,
+Customize,,,9,0,0,N,N,den_rootdown_c_item_15,den_rootdown_c_item_15_mod_2,2,
+Customize,,,10,0,0,N,N,den_rootdown_c_item_16,den_rootdown_c_item_16_mod_1,1,
+Customize,,,11,0,0,N,N,den_rootdown_c_item_17,den_rootdown_c_item_17_mod_1,1,

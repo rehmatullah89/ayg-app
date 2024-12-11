@@ -1,0 +1,7 @@
+modifierPOSName,modifierDisplayName,modifierDisplayDescription,modifierId,maxQuantity,minQuantity,isRequired,isActive,uniqueRetailerItemId,uniqueId,modifierDisplaySequence,version
+Protein,Protein,,1,1,1,Y,Y,ewr_salsaritas_b_presecurity_item_1,ewr_salsaritas_b_presecurity_item_1_mod_1,1,
+Toppings,Toppings,,2,0,0,N,Y,ewr_salsaritas_b_presecurity_item_1,ewr_salsaritas_b_presecurity_item_1_mod_2,2,
+Salsa,Salsa,,3,0,0,N,Y,ewr_salsaritas_b_presecurity_item_1,ewr_salsaritas_b_presecurity_item_1_mod_3,3,
+Protein,Protein,,1,1,1,Y,Y,ewr_salsaritas_b_presecurity_item_2,ewr_salsaritas_b_presecurity_item_2_mod_1,1,
+Toppings,Toppings,,2,0,0,N,Y,ewr_salsaritas_b_presecurity_item_2,ewr_salsaritas_b_presecurity_item_2_mod_2,2,
+Salsa,Salsa,,3,0,0,N,Y,ewr_salsaritas_b_presecurity_item_2,ewr_salsaritas_b_presecurity_item_2_mod_3,3,

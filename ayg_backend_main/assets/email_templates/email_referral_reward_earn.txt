@@ -1,0 +1,27 @@
+
+Congratulations [{first_name}],
+
+You have just earned [{reward_in_dollars_formatted}].
+
+Your referral [{first_name_referred}] [{last_initial_referred}] has completed a qualified order. So we have added your brand new credits to your account. You can check the credit balance by opening the AtYourGate and tapping the More tab on the bottom of the screen.
+
+These credits will be applid automatically to your next order.
+
+WANT ANOTHER [{reward_in_dollars_formatted}]?
+
+Thank you sharing AtYourGate with your friends. Remember the more you share the more earn. So keep on sharing!
+
+As a reminder, your referral code is: [{user_referral_code}]
+
+And we wrote you a short message that you can share with your friends on Email, Text, Facebook, Instagram, Twitter, etc:
+
+"Checkout the AtYourGate App. They deliver food to your gate at the airport! Get [{referral_offer_in_dollars_formatted}] off your next order (over [{referral_offer_in_dollars_min_spend_formatted}]) when you use my code "[{user_referral_code}]". Download now: www.atyourgate.com/download/?r=[{user_referral_code}]"
+
+Please abide by the referral program rules, learn more here, <a href="[{referral_rules_url}]" target="_blank">Referral Program Rules</a>.
+
+Copyright [{copyright_year}] AtYourGate.
+
+AtYourGate, Inc.
+4 Half Moon Trail, Ladera Ranch, CA 92694
+
+https://www.atyourgate.com

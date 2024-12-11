@@ -1,0 +1,5 @@
+env_PingRetailerMenuExistenceIntervalInSecs
+(default 60)
+
+env_PingRetailerMenuExistenceNotificationIntervalInSecs
+(default 600)

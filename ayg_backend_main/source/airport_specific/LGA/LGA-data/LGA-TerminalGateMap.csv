@@ -1,0 +1,69 @@
+airportIataCode,terminal,terminalDisplayName,concourse,concourseDisplayName,gate,locationDisplayName,gateDisplayName,displaySequence,geoPointLocation,isDefaultLocation,includeInGateMap,gpsRangeInMeters,isPresecurityLocation,requiresDeliveryInstructions,deliveryLimitedToPerHourOffset
+LGA,B,Terminal B,A,Concourse A,-1,TB-A-Cust Service Desk,Cust Service Desk,9,40.7749336103829; -73.87358340395448,Y,Y,50,Y,N,0
+LGA,B,Terminal B,A,Concourse A,30,TB-A30,Gate 30,1,40.7749336103829; -73.87358340395448,N,Y,50,N,N,0
+LGA,B,Terminal B,A,Concourse A,31,TB-A31,Gate 31,2,40.7749336103829; -73.87358340395448,N,Y,50,N,N,0
+LGA,B,Terminal B,A,Concourse A,29,TB-A29,Gate 29,3,40.7749336103829; -73.87358340395448,N,Y,50,N,N,0
+LGA,B,Terminal B,A,Concourse A,28,TB-A28,Gate 28,4,40.7749336103829; -73.87358340395448,N,Y,50,N,N,0
+LGA,B,Terminal B,A,Concourse A,26,TB-A26,Gate 26,5,40.7749336103829; -73.87358340395448,N,Y,50,N,N,0
+LGA,B,Terminal B,A,Concourse A,27,TB-A27,Gate 27,6,40.7749336103829; -73.87358340395448,N,Y,50,N,N,0
+LGA,B,Terminal B,A,Concourse A,25,TB-A25,Gate 25,7,40.7749336103829; -73.87358340395448,N,Y,50,N,N,0
+LGA,B,Terminal B,A,Concourse A,24,TB-A24,Gate 24,8,40.775271547833846; -73.87210756447848,N,Y,50,N,N,0
+LGA,B,Terminal B,B,Concourse B,-1,TB-Water Feature (Level 4),Water Feature (Level 4),24,40.77392317965614; -73.8721383704342,N,Y,50,N,Y,0
+LGA,B,Terminal B,B,Concourse B,-2,TB-The Bowery Shops (Level 4),Bowery Shops (Level 4),20,40.773652926523546; -73.87186013788225,N,Y,50,N,N,0
+LGA,B,Terminal B,B,Concourse B,-3,TB-Exit Lane (Level 4),Exit Lane (Level 4),21,40.77384825350795; -73.87202299185996,N,Y,50,Y,Y,0
+LGA,B,Terminal B,B,Concourse B,-4,TB-Air Canada Lounge (L3),AC Lounge (L3),19,40.773862818560765; -73.86981454927779,N,Y,50,N,Y,0
+LGA,B,Terminal B,B,Concourse B,-5,TB-United Club (L3),UA Club (L3),23,40.77389478455235; -73.86986769158963,N,Y,50,N,Y,0
+LGA,B,Terminal B,B,Concourse B,42,TB-42,Gate 42,1,40.77395976534927; -73.86954194474345,N,Y,50,N,N,0
+LGA,B,Terminal B,B,Concourse B,43,TB-43,Gate 43,2,40.77395976534927; -73.86954194474345,N,Y,50,N,N,0
+LGA,B,Terminal B,B,Concourse B,44,TB-44,Gate 44,3,40.77395976534927; -73.86954194474345,N,Y,50,N,N,0
+LGA,B,Terminal B,B,Concourse B,45,TB-45,Gate 45,4,40.77395976534927; -73.86954194474345,N,Y,50,N,N,0
+LGA,B,Terminal B,B,Concourse B,46,TB-46,Gate 46,5,40.77395976534927; -73.86954194474345,N,Y,50,N,N,0
+LGA,B,Terminal B,B,Concourse B,47,TB-47,Gate 47,6,40.77395976534927; -73.86954194474345,N,Y,50,N,N,0
+LGA,B,Terminal B,B,Concourse B,-6,TB-Guest Services,Guest Services,22,40.77395976534927; -73.86954194474345,N,Y,50,N,N,0
+LGA,B,Terminal B,B,Concourse B,58,TB-58,Gate 58,17,40.77356466846622; -73.86913181069494,N,Y,50,N,N,0
+LGA,B,Terminal B,B,Concourse B,59,TB-59,Gate 59,18,40.77356466846622; -73.86913181069494,N,Y,50,N,N,0
+LGA,B,Terminal B,B,Concourse B,48,TB-48,Gate 48,7,40.77356466846622; -73.86913181069494,N,Y,50,N,N,0
+LGA,B,Terminal B,B,Concourse B,49,TB-49,Gate 49,8,40.77356466846622; -73.86913181069494,N,Y,50,N,N,0
+LGA,B,Terminal B,B,Concourse B,57,TB-57,Gate 57,16,40.77356466846622; -73.86913181069494,N,Y,50,N,N,0
+LGA,B,Terminal B,B,Concourse B,56,TB-56,Gate 56,15,40.77356466846622; -73.86913181069494,N,Y,50,N,N,0
+LGA,B,Terminal B,B,Concourse B,54,TB-54,Gate 54,13,40.77356466846622; -73.86913181069494,N,Y,50,N,N,0
+LGA,B,Terminal B,B,Concourse B,55,TB-55,Gate 55,14,40.77356466846622; -73.86913181069494,N,Y,50,N,N,0
+LGA,B,Terminal B,B,Concourse B,53,TB-53,Gate 53,12,40.77294921909197; -73.86829376173455,N,Y,50,N,N,0
+LGA,B,Terminal B,B,Concourse B,51,TB-51,Gate 51,10,40.77294921909197; -73.86829376173455,N,Y,50,N,N,0
+LGA,B,Terminal B,B,Concourse B,52,TB-52,Gate 52,11,40.77294921909197; -73.86829376173455,N,Y,50,N,N,0
+LGA,B,Terminal B,B,Concourse B,50,TB-50,Gate 50,9,40.77294921909197; -73.86829376173455,N,Y,50,N,N,0
+LGA,B,Terminal B,D,Concourse D,2,TB-D2,Gate D2,2,40.77480779295427; -73.87355159240431,N,Y,50,N,N,0
+LGA,B,Terminal B,D,Concourse D,1,TB-D1,Gate D1,1,40.77480779295427; -73.87355159240431,N,Y,50,N,N,0
+LGA,B,Terminal B,D,Concourse D,4,TB-D4,Gate D4,4,40.77480779295427; -73.87355159240431,N,Y,50,N,N,0
+LGA,B,Terminal B,D,Concourse D,6,TB-D6,Gate D6,6,40.77480779295427; -73.87355159240431,N,Y,50,N,N,0
+LGA,B,Terminal B,D,Concourse D,3,TB-D3,Gate D3,3,40.77480779295427; -73.87355159240431,N,Y,50,N,N,0
+LGA,B,Terminal B,D,Concourse D,5,TB-D5,Gate D5,5,40.77480779295427; -73.87355159240431,N,Y,50,N,N,0
+LGA,B,Terminal B,D,Concourse D,7,TB-D7,Gate D7,7,40.77480779295427; -73.87355159240431,N,Y,50,N,N,0
+LGA,B,Terminal B,D,Concourse D,8,TB-D8,Gate D8,8,40.77480779295427; -73.87355159240431,N,Y,50,N,N,0
+LGA,B,Terminal B,D,Concourse D,9,TB-D9,Gate D9,9,40.77558860347942; -73.87439116378916,N,Y,50,N,N,0
+LGA,B,Terminal B,D,Concourse D,10,TB-D10,Gate D10,10,40.77558860347942; -73.87439116378916,N,Y,50,N,N,0
+LGA,B,Terminal B,D,Concourse D,-1,TB-AtYourGate Office,AYG Office,11,40.77458839127247; -73.87354246888779,N,Y,50,N,N,0
+LGA,B,Terminal B,Pre,Airport Employee,-1,TB-Air Canada Ticket Counter (L3),AC Tix Counter (L3),8,40.77247644346527; -73.8721575202386,N,Y,50,Y,Y,0
+LGA,B,Terminal B,Pre,Airport Employee,-2,TB-LGP Lobby (L3M),LGP Lobby (L3M),13,40.7724755424387; -73.87214954137657,N,Y,50,Y,Y,0
+LGA,B,Terminal B,Pre,Airport Employee,-3,TB-United Tix Counter (L3),UA Tix Counter (L3),21,40.77247623651603; -73.8721464188689,N,Y,50,Y,Y,0
+LGA,B,Terminal B,Pre,Airport Employee,-4,TB-Southwest Tix Counter (L3),SWA Tix Counter (L3),17,40.77247623651603; -73.8721464188689,N,Y,50,Y,Y,0
+LGA,B,Terminal B,Pre,Airport Employee,-5,TB-American Airline Tix Counters (L3),AAL Tix Counters (L3),5,40.77247623651603; -73.8721464188689,N,Y,50,Y,Y,0
+LGA,B,Terminal B,Pre,Airport Employee,-6,TB-American Baggage Services (L2),AAL Baggage (L2),3,40.772594494418584; -73.87239758385947,N,Y,50,Y,Y,0
+LGA,B,Terminal B,Pre,Airport Employee,-7,TB-American Breakroom (L2),AAL Brkrm (L2),4,40.77259254732212; -73.87251892987372,N,Y,50,Y,Y,0
+LGA,B,Terminal B,Pre,Airport Employee,-8,TB-United Baggage Services (L2),UA Baggage (L2),20,40.77259270059905; -73.87251942030329,N,Y,50,Y,Y,0
+LGA,B,Terminal B,Pre,Airport Employee,-9,TB-Southwest Baggage Services (L2),SWA Baggage (L2),16,40.77259270059905; -73.87251942030329,N,Y,50,Y,Y,0
+LGA,B,Terminal B,Pre,Airport Employee,-10,TB-Air Canada Baggage Services,AC Baggage (L2),7,40.77259270059905; -73.87251942030329,N,Y,50,Y,Y,0
+LGA,B,Terminal B,Pre,Airport Employee,-11,TB-JetBlue Baggage (L2),JBU Baggage (L2),11,40.77255930616939; -73.87130417097835,N,N,50,Y,Y,0
+LGA,B,Terminal B,Pre,Airport Employee,-12,TB-Taxis (L2),Taxis (L2),18,40.77255930616939; -73.87130417097835,N,Y,50,Y,Y,0
+LGA,B,Terminal B,Pre,Airport Employee,-23,TB-CHRP (L2),CHRP (L2),9,40.771002796776486; -73.87049527171602,N,Y,50,Y,Y,0
+LGA,B,Terminal B,Pre,Airport Employee,-13,TB-SIDA Office (L1),SIDA Office (L1),15,40.77253936602961; -73.87220464849233,N,Y,50,Y,Y,0
+LGA,B,Terminal B,Pre,Airport Employee,-14,TB-LGP Credential Office (L1),LGP Credential Office (L1),12,40.77255413934475; -73.87228632311654,N,Y,50,Y,N,0
+LGA,B,Terminal B,Pre,Airport Employee,-15,TB-Welcome Center (L1),Welcome Cntr (L1),23,40.772736042542; -73.87238275406605,N,Y,50,Y,N,0
+LGA,B,Terminal B,Pre,Airport Employee,-16,TB-Ground Transportation (L1),Grnd Trans. (L1),10,40.77255054771667; -73.87221385906957,N,Y,50,Y,Y,0
+LGA,B,Terminal B,Pre,Airport Employee,-17,TB-TSA Breakroom (L3),TSA Brkrm (L3),19,40.773712742232696; -73.87238799196287,N,Y,50,Y,Y,0
+LGA,B,Terminal B,Pre,Airport Employee,-18,TB-VRG Breakroom (L1 BoH),VRG Brkrm (L1 BoH),22,40.773581717319445; -73.87328837949877,N,Y,50,N,Y,0
+LGA,B,Terminal B,Pre,Airport Employee,-19,TB-ABM Breakroom (L1 BoH),ABM Brkrm (L1 BoH),6,40.773581717319445; -73.87328837949877,N,Y,50,N,Y,0
+LGA,B,Terminal B,Pre,Airport Employee,-20,TB-Oxford Breakroom (L1 BoH),Oxford Brkrm (L1 BoH),14,40.773581717319445; -73.87328837949877,N,Y,50,N,Y,0
+LGA,B,Terminal B,Pre,Airport Employee,-21,"TB-AA Breakroom (L1, A)","AA Brkrm (L1, A)",1,40.774917265542705; -73.87265030403746,N,Y,50,N,Y,0
+LGA,B,Terminal B,Pre,Airport Employee,-22,"TB-AA Breakroom (L1, Pier D)","AA Brkrm (L1, Pier D)",2,40.775369216509134; -73.87429012383134,N,Y,50,N,Y,0
+LGA,B,Terminal B,PG,Parking Garage,-1,Parking-COVID Testing Site,COVID Testing Site,1,40.77278202899918; -73.8747040402973,N,Y,50,Y,Y,0

@@ -1,0 +1,15 @@
+subscriptionPartner,subscriptionPartnerType,subscriptionPlanName,subscriptionPlanDescription,subscriptionCost,subscriptionWelcomeEmailMessage,subscriptionUIMessage,subscriptionPlanStartDate,subscriptionPlanEndDate,isActive,benefitPeriodLength,orderLimitPerUserPerPeriod,orderOffAmountLimitPerUserPerPeriod,orderOffAmountThreshold,deliveryOffAmount,deliveryOffPercent,orderOffAmount,orderOffPercent
+AMEX,CC,CC1,AMEX,1000,Welcome,Hello,2021-07-01,2022-06-30,Y,365,10,5,300,0,100,5,0
+VISA,CC,CC1,VISA,500,nmasty,Hello,2021-07-01,2022-06-30,Y,365,10,0,100,0,5,0,0
+MasterCard,CC,CC1,MasterCard,1000,salam,Hello,2021-07-01,2022-06-30,Y,365,10,0,0,0,5,0,0
+Ken Burkett,Consumer,Cns,Ken Burkett,500,hi,Hello,2021-07-01,2022-06-30,Y,365,10,50,10,0,100,0,5
+Amazon,Mkt,mk1,Amazon,1000,woooo,Hello,2021-07-01,2022-06-30,Y,365,10,2,300,5,5,2,5
+McDonalds,Mkt,mk1,McDonalds,500,mmmm,Hello,2021-07-01,2022-06-30,Y,365,10,2,100,5,0,2,5
+Coke,Mkt,mk1,Coke,1000,ccccc,Hello,2021-07-01,2022-06-30,Y,365,10,1,300,0,50,1,5
+Pepsi,Mkt,mk1,Pepsi,500,ppppp,Hello,2021-07-01,2022-06-30,Y,365,10,1,100,5,0,1,5
+Hilton,Mkt,mk1,Hilton,1000,hhh,Hello,2021-07-01,2022-06-30,Y,365,10,0,0,0,25,0,0
+CLEAR,Mkt,mk1,CLEAR,500,cllll,Hello,2021-07-01,2022-06-30,Y,365,10,100,300,5,0,0,10
+VeriFLY,Airport,ap1,VeriFLY,1000,vvvvv,Hello,2021-07-01,2022-06-30,N,365,10,100,100,0,100,5,0
+Omnevo,Airport,ap1,Omnevo,500,oooo,Hello,2021-07-01,2022-06-30,N,365,10,50,,10,0,5,5
+Sancti-fly,Travel,tr1,Sancti-fly,1000,ssss,Hello,2021-07-01,2022-06-30,Y,365,10,50,300,0,0,0,0
+SelectCard,Travel,tr1,SelectCard,500,test,Hello,2021-07-01,2022-06-30,N,365,10,100,100,10,10,20,20

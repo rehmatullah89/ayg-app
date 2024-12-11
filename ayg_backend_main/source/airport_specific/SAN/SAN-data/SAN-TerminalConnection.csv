@@ -1,0 +1,13 @@
+fromTerminal,fromConcourse,toTerminal,toConcourse,fromTerminalLastGate,toTerminalFirstGate,nextTerminalDistanceUnits,flagToRenterSecurity,connectionText
+1,,2,,-1,-14,14,N,
+1,,Admin,,-6,-1,41,N,
+1,,PMC,,-1,-2,62,N,
+2,,1,,-14,-1,14,N,
+2,,Admin,,-14,-1,64,N,
+2,,PMC,,-4,-2,18,N,
+Admin,,1,,-1,-6,41,N,
+Admin,,2,,-1,-14,64,N,
+Admin,,PMC,,-1,-2,70,N,
+PMC,,1,,-2,-1,62,N,
+PMC,,2,,-2,-4,18,N,
+PMC,,Admin,,-2,-1,70,N,

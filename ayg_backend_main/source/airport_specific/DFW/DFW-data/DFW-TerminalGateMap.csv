@@ -1,0 +1,296 @@
+airportIataCode,terminal,terminalDisplayName,concourse,concourseDisplayName,gate,locationDisplayName,gateDisplayName,displaySequence,geoPointLocation,isDefaultLocation,includeInGateMap,gpsRangeInMeters,isPresecurityLocation,requiresDeliveryInstructions,deliveryLimitedToPerHourOffset
+DFW,A,Terminal A,,,8,Terminal A - Gate 8,Gate A8,1,32.907149; -97.038883,Y,Y,50,N,N,0
+DFW,A,Terminal A,,,9,Terminal A - Gate 9,Gate A9,2,32.907140; -97.038277,N,Y,50,N,N,0
+DFW,A,Terminal A,,,10,Terminal A - Gate 10,Gate A10,3,32.907056; -97.037861,N,Y,50,N,N,0
+DFW,A,Terminal A,,,11,Terminal A - Gate 11,Gate A11,4,32.906952; -97.037496,N,Y,50,N,N,0
+DFW,A,Terminal A,,,-3,Terminal A - TSA Checkpoint 12,TSA Checkpoint A12,42,32.906814; -97.037245,N,Y,50,N,N,0
+DFW,A,Terminal A,,,13,Terminal A - Gate 13,Gate A13,5,32.906642; -97.036567,N,Y,50,N,N,0
+DFW,A,Terminal A,,,-22,Terminal A- Skylink A8-A21,Skylink A8-A21,38,32.906836; -97.036509,N,N,50,N,N,0
+DFW,A,Terminal A,,,14,Terminal A - Gate 14,Gate A14,6,32.906557; -97.036445,N,Y,50,N,N,0
+DFW,A,Terminal A,,,15,Terminal A - Gate 15,Gate A15,7,32.906491; -97.036347,N,Y,50,N,N,0
+DFW,A,Terminal A,,,16,Terminal A - Gate 16,Gate A16,8,32.906336; -97.036169,N,Y,50,N,N,0
+DFW,A,Terminal A,,,17,Terminal A - Gate 17,Gate A17,9,32.906068; -97.035922,N,Y,50,N,N,0
+DFW,A,Terminal A,,,18,Terminal A - Gate 18,Gate A18,10,32.905743; -97.035717,N,Y,50,N,N,0
+DFW,A,Terminal A,,,19,Terminal A - Gate 19,Gate A19,11,32.905608; -97.035635,N,Y,50,N,N,0
+DFW,A,Terminal A,,,-20,Terminal A - HCC A20,HCC A20,35,32.905358; -97.035778,N,Y,50,N,N,0
+DFW,A,Terminal A,,,20,Terminal A - Gate 20,Gate A20,12,32.905281; -97.035523,N,Y,50,N,N,0
+DFW,A,Terminal A,,,21,Terminal A - Gate 21,Gate A21,13,32.904819; -97.035441,N,Y,50,N,N,0
+DFW,A,Terminal A,,,22,Terminal A - Gate 22,Gate A22,14,32.904501; -97.035447,N,Y,50,N,N,0
+DFW,A,Terminal A,,,-10,Terminal A - TSA Checkpoint 22,TSA Checkpoint A22,43,32.904483; -97.035629,N,Y,50,N,N,0
+DFW,A,Terminal A,,,23,Terminal A - Gate 23,Gate A23,15,32.904216; -97.035505,N,Y,50,N,N,0
+DFW,A,Terminal A,,,-12,Terminal A - Admirals Club 24,Admirals Club A24,27,32.904150; -97.035705,N,Y,50,N,N,0
+DFW,A,Terminal A,,,24,Terminal A - Gate 24,Gate A24,16,32.904027; -97.035555,N,Y,50,N,N,0
+DFW,A,Terminal A,,,25,Terminal A - Gate 25,Gate A25,17,32.903523; -97.035802,N,Y,50,N,N,0
+DFW,A,Terminal A,,,28,Terminal A - Gate 28,Gate A28,18,32.903120; -97.036101,N,Y,50,N,N,0
+DFW,A,Terminal A,,,29,Terminal A - Gate 29,Gate A29,19,32.902777; -97.036447,N,Y,50,N,N,0
+DFW,A,Terminal A,,,33,Terminal A - Gate 33,Gate A33,20,32.902673; -97.036598,N,Y,50,N,N,0
+DFW,A,Terminal A,,,-23,Terminal A- Skylink A22-A39,Skylink A22-A39,37,32.90276; -97.036616,N,N,50,N,N,0
+DFW,A,Terminal A,,,34,Terminal A - Gate 34,Gate A34,21,32.902469; -97.036971,N,Y,50,N,N,0
+DFW,A,Terminal A,,,-17,Terminal A - TSA Checkpoint 35,TSA Checkpoint A35,44,32.902523; -97.037300,N,Y,50,N,N,0
+DFW,A,Terminal A,,,35,Terminal A - Gate 35,Gate A35,22,32.902285; -97.037536,N,Y,50,N,N,0
+DFW,A,Terminal A,,,36,Terminal A - Gate 36,Gate A36,23,32.902239; -97.037731,N,Y,50,N,N,0
+DFW,A,Terminal A,,,37,Terminal A - Gate 37,Gate A37,24,32.902186; -97.038196,N,Y,50,N,N,0
+DFW,A,Terminal A,,,38,Terminal A - Gate 38,Gate A38,25,32.902187; -97.038331,N,Y,50,N,N,0
+DFW,A,Terminal A,,,-21,Terminal A - Flight Ops A38,Flight Ops A38,34,32.902337; -97.038440,N,Y,50,N,N,0
+DFW,A,Terminal A,,,-19,Terminal A - Minute Suites 39,Minute Suites A39,36,32.902358; -97.038639,N,Y,50,N,N,0
+DFW,A,Terminal A,,,39,Terminal A - Gate 39,Gate A39,26,32.902209; -97.038881,N,Y,50,N,N,0
+DFW,A,Terminal A,,,-24,Terminal A- Ticket Counter A35,Ticket Counter A35,40,32.902485; -97.037860,N,Y,50,Y,N,0
+DFW,A,Terminal A,,,-16,Terminal A - Valet Booth 29,Valet Booth A29,49,32.903345; -97.037006,N,Y,50,Y,N,0
+DFW,A,Terminal A,,,-15,Terminal A - Baggage Claim 29,Baggage Claim A29,32,32.902983; -97.036763,N,Y,50,Y,N,0
+DFW,A,Terminal A,,,-14,Terminal A - Baggage Claim 28,Baggage Claim A28,31,32.903247; -97.036432,N,Y,50,Y,N,0
+DFW,A,Terminal A,,,-13,Terminal A - Credit Union,Credit Union (pre-security),33,32.904128; -97.035860,N,Y,50,Y,N,0
+DFW,A,Terminal A,,,-11,Terminal A - Valet Booth 24,Valet Booth A24,48,32.904319; -97.036359,N,Y,50,Y,N,0
+DFW,A,Terminal A,,,-9,Terminal A - Ticket Counter 21,Ticket Counter A21,39,32.905196; -97.035837,N,Y,50,Y,N,0
+DFW,A,Terminal A,,,-8,Terminal A - Valet Booth 20,Valet Booth A20,47,32.905201; -97.036417,N,Y,50,Y,N,0
+DFW,A,Terminal A,,,-7,Terminal A - Baggage Claim 17,Baggage Claim A17,30,32.905556; -97.036029,N,Y,50,Y,N,0
+DFW,A,Terminal A,,,-6,Terminal A - Baggage Claim 16,Baggage Claim A16,29,32.905857; -97.036224,N,Y,50,Y,N,0
+DFW,A,Terminal A,,,-5,Terminal A - Baggage Claim 15,Baggage Claim A15,28,32.906137; -97.036473,N,Y,50,Y,N,0
+DFW,A,Terminal A,,,-4,Terminal A - Valet Booth 15,Valet Booth A15,46,32.906070; -97.037012,N,Y,50,Y,N,0
+DFW,A,Terminal A,,,-2,Terminal A - Valet Booth 10,Valet Booth A10,45,32.906478; -97.037957,N,Y,50,Y,N,0
+DFW,A,Terminal A,,,-1,Terminal A - Ticket Counter 8,Ticket Counter A8,41,32.906916; -97.037765,N,Y,50,Y,N,0
+DFW,B,Terminal B,,,1,Terminal B - Gate 1,Gate B1,1,32.901016; -97.041792,N,Y,50,N,N,0
+DFW,B,Terminal B,,,2,Terminal B - Gate 2,Gate B2,2,32.901093; -97.041787,N,Y,50,N,N,0
+DFW,B,Terminal B,,,3,Terminal B - Gate 3,Gate B3,3,32.901310; -97.041786,N,Y,50,N,N,0
+DFW,B,Terminal B,,,-1,Terminal B - Admirals Club 3,Admirals Club B3,46,32.902067; -97.041898,N,Y,50,N,N,0
+DFW,B,Terminal B,,,4,Terminal B - Gate 4,Gate B4,4,32.902289; -97.042365,N,Y,50,N,N,0
+DFW,B,Terminal B,,,5,Terminal B - Gate 5,Gate B5,5,32.902350; -97.042926,N,Y,50,N,N,0
+DFW,B,Terminal B,,,6,Terminal B - Gate 6,Gate B6,6,32.902419; -97.043182,N,Y,50,N,N,0
+DFW,B,Terminal B,,,7,Terminal B - Gate 7,Gate B7,7,32.902482; -97.043368,N,Y,50,N,N,0
+DFW,B,Terminal B,,,8,Terminal B - Gate 8,Gate B8,8,32.902523; -97.043479,N,Y,50,N,N,0
+DFW,B,Terminal B,,,-25,Terminal B- Skylink B1-B20,Skylink B1-B20,59,32.902630; -97.044013,N,N,50,N,N,0
+DFW,B,Terminal B,,,-6,Terminal B - TSA Checkpoint 9,TSA Checkpoint B9,64,32.902872; -97.043942,N,Y,50,N,N,0
+DFW,B,Terminal B,,,9,Terminal B - Gate 9,Gate B9,9,32.902876; -97.044092,N,Y,50,N,N,0
+DFW,B,Terminal B,,,10,Terminal B - Gate 10,Gate B10,10,32.902916; -97.044147,N,Y,50,N,N,0
+DFW,B,Terminal B,,,11,Terminal B - Gate 11,Gate B11,11,32.902963; -97.044212,N,Y,50,N,N,0
+DFW,B,Terminal B,,,12,Terminal B - Gate 12,Gate B12,12,32.903049; -97.044398,N,Y,50,N,N,0
+DFW,B,Terminal B,,,14,Terminal B - Gate 14,Gate B14,13,32.903423; -97.044670,N,Y,50,N,N,0
+DFW,B,Terminal B,,,15,Terminal B - Gate 15,Gate B15,14,32.903563; -97.044764,N,Y,50,N,N,0
+DFW,B,Terminal B,,,16,Terminal B - Gate 16,Gate B16,15,32.903667; -97.044827,N,Y,50,N,N,0
+DFW,B,Terminal B,,,17,Terminal B - Gate 17,Gate B17,16,32.903908; -97.044948,N,Y,50,N,N,0
+DFW,B,Terminal B,,,18,Terminal B - Gate 18,Gate B18,17,32.904199; -97.045043,N,Y,50,N,N,0
+DFW,B,Terminal B,,,19,Terminal B - Gate 19,Gate B19,18,32.904388; -97.045167,N,Y,50,N,N,0
+DFW,B,Terminal B,,,20,Terminal B - Gate 20/21,Gate B20/21,19,32.904536; -97.045186,N,Y,50,N,N,0
+DFW,B,Terminal B,,,22,Terminal B - Gate 22,Gate B22,20,32.904903; -97.045189,N,Y,50,N,N,0
+DFW,B,Terminal B,,,24,Terminal B - Gate 24,Gate B24,21,32.905080; -97.045167,N,Y,50,N,N,0
+DFW,B,Terminal B,,,-10,Terminal B - Envoy VP Offices B25,Envoy VP Offices B25,56,32.905384; -97.044845,N,Y,50,N,N,0
+DFW,B,Terminal B,,,25,Terminal B - Gate 25,Gate B25,22,32.905549; -97.044945,N,Y,50,N,N,0
+DFW,B,Terminal B,,,26,Terminal B - Gate 26,Gate B26,23,32.905618; -97.044909,N,Y,50,N,N,0
+DFW,B,Terminal B,,,27,Terminal B - Gate 27,Gate B27,24,32.905704; -97.044871,N,Y,50,N,N,0
+DFW,B,Terminal B,,,28,Terminal B - Gate 28,Gate B28,25,32.905880; -97.044773,N,Y,50,N,N,0
+DFW,B,Terminal B,,,-12,Terminal B - DFW Travel Lounge 28,DFW Travel Lounge B28,52,32.906243; -97.044587,N,Y,50,N,N,0
+DFW,B,Terminal B,,,-26,Terminal B- Skylink B21-B49,Skylink B21-B49,60,"32,906446; -97.044527",N,N,50,N,N,0
+DFW,B,Terminal B,,,29,Terminal B - Gate 29,Gate B29,26,32.906361; -97.044370,N,Y,50,N,N,0
+DFW,B,Terminal B,,,-14,Terminal B - TSA Checkpoint 30,TSA Checkpoint B30,63,32.906445; -97.044153,N,Y,50,N,N,0
+DFW,B,Terminal B,,,31,Terminal B - Gate 31,Gate B31,28,32.907108; -97.044872,N,Y,50,N,N,0
+DFW,B,Terminal B,,,30,Terminal B - Gate 30,Gate B30,27,32.907028; -97.045011,N,Y,50,N,N,0
+DFW,B,Terminal B,,,32,Terminal B - Gate 32,Gate B32,29,32.907199; -97.044990,N,Y,50,N,N,0
+DFW,B,Terminal B,,,33,Terminal B - Gate 33,Gate B33,30,32.907306; -97.045289,N,Y,50,N,N,0
+DFW,B,Terminal B,,,34,Terminal B - Gate 34,Gate B34,31,32.907143; -97.045297,N,Y,50,N,N,0
+DFW,B,Terminal B,,,36,Terminal B - Gate 36,Gate B36,33,32.907139; -97.045437,N,Y,50,N,N,0
+DFW,B,Terminal B,,,35,Terminal B - Gate 35,Gate B35,32,32.907304; -97.045478,N,Y,50,N,N,0
+DFW,B,Terminal B,,,38,Terminal B - Gate 38,Gate B38,35,32.907140; -97.045572,N,Y,50,N,N,0
+DFW,B,Terminal B,,,37,Terminal B - Gate 37,Gate B37,34,32.907235; -97.045626,N,Y,50,N,N,0
+DFW,B,Terminal B,,,39,Terminal B - Gate 39,Gate B39,36,32.907194; -97.045629,N,Y,50,N,N,0
+DFW,B,Terminal B,,,40,Terminal B - Gate 40,Gate B40,37,32.906650; -97.044101,N,Y,50,N,N,0
+DFW,B,Terminal B,,,41,Terminal B - Gate 41,Gate B41,38,32.906723; -97.043888,N,Y,50,N,N,0
+DFW,B,Terminal B,,,-15,Terminal B - Envoy Flight Crew Room 41,Envoy Flight Crew B41,55,32.906705; -97.043712,N,Y,50,N,N,0
+DFW,B,Terminal B,,,-16,Terminal B - Gameway 42,Gameway B42,57,32.906908; -97.043759,N,Y,50,N,N,0
+DFW,B,Terminal B,,,42,Terminal B - Gate 42,Gate B42,39,32.906896; -97.043583,N,Y,50,N,N,0
+DFW,B,Terminal B,,,-20,Terminal B - TSA Training Room,TSA Training Room,65,32.906946; -97.043136,N,Y,50,N,N,0
+DFW,B,Terminal B,,,43,Terminal B - Gate 43,Gate B43,40,32.906958; -97.043438,N,Y,50,N,N,0
+DFW,B,Terminal B,,,-21,Terminal B - Envoy Administration Hub 46,Envoy Administration Hub ,54,32.906990; -97.042932,N,Y,50,N,N,0
+DFW,B,Terminal B,,,44,Terminal B - Gate 44/45,Gate B44/45,41,32.907088; -97.043053,N,Y,50,N,N,0
+DFW,B,Terminal B,,,-22,Terminal B - MESA Crew Room 46,MESA Crew B46,58,32.907089; -97.042613,N,Y,50,N,N,0
+DFW,B,Terminal B,,,46,Terminal B - Gate 46,Gate B46,42,32.907157; -97.042719,N,Y,50,N,N,0
+DFW,B,Terminal B,,,47,Terminal B - Gate 47,Gate B47,43,32.907186; -97.042469,N,Y,50,N,N,0
+DFW,B,Terminal B,,,-23,Terminal B - USO Center 47,USO Center B47,66,32.907103; -97.042296,N,Y,50,N,N,0
+DFW,B,Terminal B,,,48,Terminal B - Gate 48/49,Gate B48/49,44,32.907203; -97.042118,N,Y,50,N,N,0
+DFW,B,Terminal B,,,-24,Terminal B - AtYourGate Office 48,AtYourGate Office,47,32.907034; -97.042302,N,Y,50,N,N,0
+DFW,B,Terminal B,,,-19,Terminal B - Brand Ambassador Office 30,Brand Ambassador Office,51,32.906737; -97.043199,N,Y,50,Y,N,0
+DFW,B,Terminal B,,,-17,Terminal B - Ticket Counter 30,Ticket Counter High B30,61,32.906663; -97.043443,N,Y,50,Y,N,0
+DFW,B,Terminal B,,,-18,Terminal B - Valet Booth 30,Valet Booth B30 ,69,32.906374; -97.043037,N,Y,50,Y,N,0
+DFW,B,Terminal B,,,-13,Terminal B - Baggage Claim 29/30,Baggage Claim B29/30,48,32.906201; -97.044168,N,Y,50,Y,N,0
+DFW,B,Terminal B,,,-11,Terminal B - Employee Parking Office,Employee Parking Office (pre-security),53,32.905520; -97.044654,N,Y,50,Y,N,0
+DFW,B,Terminal B,,,-9,Terminal B - Valet Booth 23,Valet Booth B23,68,32.904918; -97.044500,N,Y,50,Y,N,0
+DFW,B,Terminal B,,,-8,Terminal B - USO Office ,USO Office (pre-security),67,32.905174; -97.044700,N,Y,50,Y,N,0
+DFW,B,Terminal B,,,-7,Terminal B - Access DFW 17,Access DFW - Training Office,45,32.904109; -97.044780,N,Y,50,Y,N,0
+DFW,B,Terminal B,,,-5,Terminal B - Ticket Counter 5,Ticket Counter Low B5,62,32.902715; -97.043512,N,Y,50,Y,N,0
+DFW,B,Terminal B,,,-4,Terminal B - Valet Booth 9,Valet Booth B9,70,32.903005; -97.043143,N,Y,50,Y,N,0
+DFW,B,Terminal B,,,-3,Terminal B - Baggage Claim 5,Baggage Claim B5,50,32.902661; -97.043001,N,Y,50,Y,N,0
+DFW,B,Terminal B,,,-2,Terminal B - Baggage Claim 4,Baggage Claim B4,49,32.902577; -97.042549,N,Y,50,Y,N,0
+DFW,C,Terminal C,,,-1,Terminal C - Prospect Office C2,Prospect Office C2,38,32.899749; -97.038873,N,Y,50,N,N,0
+DFW,C,Terminal C,,,-20,Terminal C - Unaccompanied Minor Holding Room C2,Unaccompanied Minor Holding Room C2,48,32.899840; -97.038763,N,Y,50,N,N,0
+DFW,C,Terminal C,,,2,Terminal C - Gate 2,Gate C2,1,32.900081; -97.038717,N,Y,50,N,N,0
+DFW,C,Terminal C,,,4,Terminal C - Gate 4,Gate C4,2,32.900061; -97.038125,N,Y,50,N,N,0
+DFW,C,Terminal C,,,6,Terminal C - Gate 6,Gate C6,3,32.899973; -97.037663,N,Y,50,N,N,0
+DFW,C,Terminal C,,,-3,Terminal C - American Airlines Crew Lounge 7,American Airlines Crew Lounge C7,30,32.899616; -97.037405,N,Y,50,N,N,0
+DFW,C,Terminal C,,,7,Terminal C - Gate 7,Gate C7,4,32.899796; -97.037146,N,Y,50,N,N,0
+DFW,C,Terminal C,,,-6,Terminal C - TSA Checkpoint 10,TSA Checkpoint C10,44,32.899429; -97.036916,N,Y,50,N,N,0
+DFW,C,Terminal C,,,8,Terminal C - Gate 8,Gate C8,5,32.899635; -97.036699,N,Y,50,N,N,0
+DFW,C,Terminal C,,,10,Terminal C - Gate 10,Gate C10,6,32.899589; -97.036642,N,Y,50,N,N,0
+DFW,C,Terminal C,,,-21,Terminal C - Skylink C2-C20,Skylink C2-C20,39,32.899529; -97.036413,N,N,50,N,N,0
+DFW,C,Terminal C,,,11,Terminal C - Gate 11,Gate C11,7,32.899419; -97.036392,N,Y,50,N,N,0
+DFW,C,Terminal C,,,12,Terminal C - Gate 12,Gate C12,8,32.899287; -97.036253,N,Y,50,N,N,0
+DFW,C,Terminal C,,,14,Terminal C - Gate 14,Gate C14,9,32.898819; -97.035949,N,Y,50,N,N,0
+DFW,C,Terminal C,,,15,Terminal C - Gate 15,Gate C15,10,32.898526; -97.035770,N,Y,50,N,N,0
+DFW,C,Terminal C,,,16,Terminal C - Gate 16,Gate C16,11,32.898438; -97.035727,N,Y,50,N,N,0
+DFW,C,Terminal C,,,17,Terminal C - Gate 17,Gate C17,12,32.898137; -97.035621,N,Y,50,N,N,0
+DFW,C,Terminal C,,,19,Terminal C - Gate 19,Gate C19,13,32.897654; -97.035537,N,Y,50,N,N,0
+DFW,C,Terminal C,,,20,Terminal C - Gate 20,Gate C20,14,32.897524; -97.035541,N,Y,50,N,N,0
+DFW,C,Terminal C,,,-11,Terminal C - Admirals Club 20,Admirals Club C20,29,32.897505; -97.035705,N,Y,50,N,N,0
+DFW,C,Terminal C,,,-13,Terminal C - TSA Checkpoint 20,TSA Checkpoint C20,45,32.897214; -97.035718,N,Y,50,N,N,0
+DFW,C,Terminal C,,,21,Terminal C - Gate 21,Gate C21,15,32.897177; -97.035568,N,Y,50,N,N,0
+DFW,C,Terminal C,,,-19,Terminal C - Flight Ops C21,Flight Ops C21,36,32.897165; -97.035730,N,Y,50,N,N,0
+DFW,C,Terminal C,,,22,Terminal C - Gate 22,Gate C22,16,32.897081; -97.035590,N,Y,50,N,N,0
+DFW,C,Terminal C,,,24,Terminal C - Gate 24,Gate C24,17,32.896734; -97.035698,N,Y,50,N,N,0
+DFW,C,Terminal C,,,26,Terminal C - Gate 26,Gate C26,18,32.896257; -97.035962,N,Y,50,N,N,0
+DFW,C,Terminal C,,,-22,Terminal C- Skylink C21-C39,Skylink C21-C39,40,32.895763; -97.036137,N,N,50,N,N,0
+DFW,C,Terminal C,,,27,Terminal C - Gate 27,Gate C27,19,32.895756; -97.036280,N,Y,50,N,N,0
+DFW,C,Terminal C,,,28,Terminal C - Gate 28,Gate C28,20,32.895651; -97.036462,N,Y,50,N,N,0
+DFW,C,Terminal C,,,29,Terminal C - Gate 29,Gate C29,21,32.895598; -97.036533,N,Y,50,N,N,0
+DFW,C,Terminal C,,,30,Terminal C - Gate 30,Gate C30,22,32.895496; -97.036662,N,Y,50,N,N,0
+DFW,C,Terminal C,,,-17,Terminal C - TSA Checkpoint 30,TSA Checkpoint C30,46,32.895555; -97.036896,N,Y,50,N,N,0
+DFW,C,Terminal C,,,31,Terminal C - Gate 31,Gate C31,23,32.895456; -97.036737,N,Y,50,N,N,0
+DFW,C,Terminal C,,,33,Terminal C - Gate 33,Gate C33,24,32.895242; -97.037030,N,Y,50,N,N,0
+DFW,C,Terminal C,,,35,Terminal C - Gate 35,Gate C35,25,32.895083; -97.037809,N,Y,50,N,N,0
+DFW,C,Terminal C,,,36,Terminal C - Gate 36,Gate C36,26,32.895036; -97.038099,N,Y,50,N,N,0
+DFW,C,Terminal C,,,37,Terminal C - Gate 37,Gate C37,27,32.895037; -97.038339,N,Y,50,N,N,0
+DFW,C,Terminal C,,,39,Terminal C - Gate 39,Gate C39,28,32.895006; -97.038757,N,Y,50,N,N,0
+DFW,C,Terminal C,,,-18,Terminal C - Valet Booth 30,Valet Booth C30,50,32.896084; -97.037200,N,Y,50,Y,N,0
+DFW,C,Terminal C,,,31,Terminal C - Baggage Claim 31,Baggage Claim C31,34,32.895625; -97.037159,N,Y,50,Y,N,0
+DFW,C,Terminal C,,,-16,Terminal C - Ticket Counter 3,Ticket Counter C3,43,32.895859; -97.036837,N,Y,50,Y,N,0
+DFW,C,Terminal C,,,-15,Terminal C - Prospect Office 27,Prospect Office (pre-security),37,32.895995; -97.036649,N,Y,50,Y,N,0
+DFW,C,Terminal C,,,-14,Terminal C - Baggage Claim 25/26,Baggage Claim C25/26,33,32.896440;-97.036097,N,Y,50,Y,N,0
+DFW,C,Terminal C,,,-12,Terminal C - Ticket Counter 2,Ticket Counter C2,42,32.897521; -97.035919,N,Y,50,Y,N,0
+DFW,C,Terminal C,,,-10,Terminal C - Valet Booth 21,Valet Booth C21,49,32.8973631; -97.0362076,N,Y,50,Y,N,0
+DFW,C,Terminal C,,,-9,Terminal C - TSA Oversize Inspection Area 15,TSA Oversized Inspection Area,47,32.898102; -97.035967,N,Y,50,Y,N,0
+DFW,C,Terminal C,,,-8,Terminal C - Baggage Claim 15,Baggage Claim C15,32,32.898472; -97.036062,N,Y,50,Y,N,0
+DFW,C,Terminal C,,,-7,Terminal C - Baggage Claim 12,Baggage Claim C12,31,32.898871; -97.036349,N,Y,50,Y,N,0
+DFW,C,Terminal C,,,-5,Terminal C - Ticket Counter 1,Ticket Counter C1,41,32.899478; -97.037245,N,Y,50,Y,N,0
+DFW,C,Terminal C,,,-4,Terminal C - Valet Booth 7,Valet Booth C7,51,32.899253; -97.037673,N,Y,50,Y,N,0
+DFW,C,Terminal C,,,-2,Terminal C - Baggage Claim 4,Baggage Claim C4,35,32.899815; -97.038182,N,Y,50,Y,N,0
+DFW,D,Terminal D,,,1,Terminal D - Gate 1,Gate D1,1,32.893147; -97.041985,N,Y,50,N,N,0
+DFW,D,Terminal D,,,2,Terminal D - Gate 2,Gate D2,2,32.893264; -97.041998,N,Y,50,N,N,0
+DFW,D,Terminal D,,,3,Terminal D - Gate 3,Gate D3,3,32.893621; -97.041968,N,Y,50,N,N,0
+DFW,D,Terminal D,,,4,Terminal D - Gate 4,Gate D4,4,32.893748; -97.041993,N,Y,50,N,N,0
+DFW,D,Terminal D,,,5,Terminal D - Gate 5,Gate D5,5,32.895655; -97.042228,N,Y,50,N,N,0
+DFW,D,Terminal D,,,6,Terminal D - Gate 6,Gate D6,6,32.895656; -97.042421,N,Y,50,N,N,0
+DFW,D,Terminal D,,,7,Terminal D - Gate 7,Gate D7,7,32.895664; -97.042560,N,Y,50,N,N,0
+DFW,D,Terminal D,,,-39,Terminal D - DFW Testing Center D7,DFW Testing Center D7,43,32.895811; -97.042728,N,Y,50,N,N,0
+DFW,D,Terminal D,,,8,Terminal D - Gate 8,Gate D8,8,32.895681; -97.043244,N,Y,50,N,N,0
+DFW,D,Terminal D,,,10,Terminal D - Gate 10,Gate D10,9,32.895680; -97.043345,N,Y,50,N,N,0
+DFW,D,Terminal D,,,11,Terminal D - Gate 11,Gate D11,10,32.895695; -97.044014,N,Y,50,N,N,0
+DFW,D,Terminal D,,,12,Terminal D - Gate 12,Gate D12,11,32.895718; -97.044115,N,Y,50,N,N,0
+DFW,D,Terminal D,,,-1,Terminal D - Centurion Lounge D12,American Express Centerioun Lounge D12,35,32.896031; -97.044002,N,Y,50,N,N,0
+DFW,D,Terminal D,,,14,Terminal D - Gate 14,Gate D14,12,32.895799; -97.044753,N,Y,50,N,N,0
+DFW,D,Terminal D,,,15,Terminal D - Gate 15,Gate D15,13,32.895839; -97.044802,N,Y,50,N,N,0
+DFW,D,Terminal D,,,16,Terminal D - Gate 16,Gate D16,14,32.895885; -97.044855,N,Y,50,N,N,0
+DFW,D,Terminal D,,,-6,Terminal D - TSA Checkpoint 18,TSA Checkpoint D18,58,32.896267; -97.044385,N,Y,50,N,N,0
+DFW,D,Terminal D,,,-43,Terminal D- Skylink D1-D22,Skylink D1-D22,51,32.896398; -97.044225,N,N,50,N,N,0
+DFW,D,Terminal D,,,17,Terminal D - Gate 17,Gate D17,15,32.895987; -97.044966,N,Y,50,N,N,0
+DFW,D,Terminal D,,,18,Terminal D - Gate 18,Gate D18,16,32.896265; -97.045050,N,Y,50,N,N,0
+DFW,D,Terminal D,,,20,Terminal D - Gate 20,Gate D20,17,32.896400; -97.045050,N,Y,50,N,N,0
+DFW,D,Terminal D,,,21,Terminal D - Gate 21,Gate D21,18,32.896970; -97.045117,N,Y,50,N,N,0
+DFW,D,Terminal D,,,-24,Terminal D - TSA Checkpoint 22,TSA Checkpoint D22,59,32.897652; -97.044837,N,Y,50,N,N,0
+DFW,D,Terminal D,,,22,Terminal D - Gate 22,Gate D22,19,32.897295; -97.045094,N,Y,50,N,N,0
+DFW,D,Terminal D,,,-42,Terminal D - Flight Ops D23,Flight Ops D23,44,32.897788; -97.044843,N,Y,50,N,N,0
+DFW,D,Terminal D,,,23,Terminal D - Gate 23,Gate D23,20,32.897983; -97.045078,N,Y,50,N,N,0
+DFW,D,Terminal D,,,-27,Terminal D - Minute Suites 23,Minute Suites D23,50,32.898026; -97.044825,N,Y,50,N,N,0
+DFW,D,Terminal D,,,-28,Terminal D - Admirals Club 24,Admirals Club D24,34,32.898137;-97.044994,N,Y,50,N,N,0
+DFW,D,Terminal D,,,24,Terminal D - Gate 24,Gate D24,21,32.898205; -97.045067,N,Y,50,N,N,0
+DFW,D,Terminal D,,,25,Terminal D - Gate 25,Gate D25,22,32.898785; -97.044996,N,Y,50,N,N,0
+DFW,D,Terminal D,,,27,Terminal D - Gate 27,Gate D27,23,32.898876; -97.044995,N,Y,50,N,N,0
+DFW,D,Terminal D,,,-30,Terminal D - The Club DFW 27,The Club DFW D27,54,32.898904; -97.044686,N,Y,50,N,N,0
+DFW,D,Terminal D,,,28,Terminal D - Gate 28,Gate D28,24,32.8992895; -97.044982,N,Y,50,N,N,0
+DFW,D,Terminal D,,,29,Terminal D - Gate 29,Gate D29,25,32.899348; -97.044914,N,Y,50,N,N,0
+DFW,D,Terminal D,,,-31,Terminal D - TSA Checkpoint 30,TSA Checkpoint D30,60,32.898906; -97.044345,N,Y,50,N,N,0
+DFW,D,Terminal D,,,-44,Terminal D- Skylink D23-D40,Skylink D23-D40,52,32.898851; -97.044241,N,N,50,N,N,0
+DFW,D,Terminal D,,,30,Terminal D - Gate 30,Gate D30,26,32.899424; -97.044819,N,Y,50,N,N,0
+DFW,D,Terminal D,,,31,Terminal D - Gate 31,Gate D31,27,32.899477; -97.044753,N,Y,50,N,N,0
+DFW,D,Terminal D,,,-36,Terminal D - Korean Air Lounge 36,Korean Air Lounge D36,48,32.899291; -97.043260,N,Y,50,N,N,0
+DFW,D,Terminal D,,,-37,Terminal D - Lufthansa Lounge 36,Lufthansa Lounge D36,49,32.899289; -97.043259,N,Y,50,N,N,0
+DFW,D,Terminal D,,,33,Terminal D - Gate 33,Gate D33,28,32.899482; -97.044109,N,Y,50,N,N,0
+DFW,D,Terminal D,,,34,Terminal D - Gate 34,Gate D34,29,32.899475; -97.043908,N,Y,50,N,N,0
+DFW,D,Terminal D,,,36,Terminal D - Gate 36,Gate D36,30,32.899479; -97.043334,N,Y,50,N,N,0
+DFW,D,Terminal D,,,37,Terminal D - Gate 37,Gate D37,31,32.899477; -97.043136,N,Y,50,N,N,0
+DFW,D,Terminal D,,,38,Terminal D - Gate 38,Gate D38,32,32.899473; -97.042559,N,Y,50,N,N,0
+DFW,D,Terminal D,,,39,Terminal D - Gate 39/40,Gate D39/40,33,32.899467; -97.042357,N,Y,50,N,N,0
+DFW,D,Terminal D,,,-38,Terminal D - Testing Center 40,Testing Center D40,53,32.899768; -97.041775,N,Y,50,N,N,0
+DFW,D,Terminal D,,,-35,Terminal D - Baggage Claim 31,Baggage Claim D31 (LL),40,32.899118; -97.043638,N,Y,50,Y,N,0
+DFW,D,Terminal D,,,-34,Terminal D - Baggage Claim 30,Baggage Claim D30 (LL),39,32.899008; -97.043721,N,Y,50,Y,N,0
+DFW,D,Terminal D,,,-33,Terminal D - Baggage Claim 29,Baggage Claim D29 (LL),38,32.898957; -97.043834,N,Y,50,Y,N,0
+DFW,D,Terminal D,,,-32,Terminal D - Ticket Counter 31,Ticket Counter North D31,56,32.898808; -97.043959,N,Y,50,Y,N,0
+DFW,D,Terminal D,,,-29,Terminal D - Credit Union 24,Credit Union (pre-security),41,32.898210; -97.044456,N,Y,50,Y,N,0
+DFW,D,Terminal D,,,-26,Terminal D - Ticket Counter Customs 23,Ticket Counter Customs D23,55,32.897776; -97.044473,N,Y,50,Y,N,0
+DFW,D,Terminal D,,,-25,Terminal D - Grand Hyatt Lobby,Grand Hyatt Lobby,46,32.897839; -97.044419,N,Y,50,Y,N,0
+DFW,D,Terminal D,,,-41,Terminal D - DFW Testing Center D22 (pre-security),DFW Testing Center D22 (pre-security),42,32.897405; -97.044598,N,Y,50,Y,N,0
+DFW,D,Terminal D,,,-23,Terminal D - International Arrivals,International Arrivals (LL),47,32.897590; -97.044482,N,Y,50,Y,N,0
+DFW,D,Terminal D,,,-22,Terminal D - Valet Booth 23,Valet Booth D23,62,32.897432; -97.044282,N,Y,50,Y,N,0
+DFW,D,Terminal D,,,-21,Terminal D - Global Entry Enrollment Center,Global Entry Enrollment Center  (LL),45,32.896828; -97.044135,N,Y,50,Y,N,0
+DFW,D,Terminal D,,,-20,Terminal D - Ticket Counter 20,Ticket Counter South D20,57,32.896348; -97.043960,N,Y,50,Y,N,0
+DFW,D,Terminal D,,,-5,Terminal D - Baggage Claim 16,Baggage Claim D16 (LL),37,32.896149; -97.043916,N,Y,50,Y,N,0
+DFW,D,Terminal D,,,-4,Terminal D - Valet Booth 1 ,Valet Booth D1,61,32.896345; -97.043524,N,Y,50,Y,N,0
+DFW,D,Terminal D,,,-3,Terminal D - Baggage Claim 15,Baggage Claim D15 (LL),36,32.896073; -97.043811,N,Y,50,Y,N,0
+DFW,D,Terminal D,,,-2,Terminal D - Valet Office ,Valet Office (2LL),63,32.896878; -97.042824,N,Y,50,Y,N,0
+DFW,E,Terminal E,,,2,Terminal E - Gate 2,Gate E2,1,32.892855; -97.038571,N,Y,50,N,N,0
+DFW,E,Terminal E,,,4,Terminal E - Gate 4,Gate E4,2,32.892903; -97.038076,N,Y,50,N,N,0
+DFW,E,Terminal E,,,5,Terminal E - Gate 5,Gate E5,3,32.892917; -97.037783,N,Y,50,N,N,0
+DFW,E,Terminal E,,,6,Terminal E - Gate 6,Gate E6,4,32.892875; -97.037613,N,Y,50,N,N,0
+DFW,E,Terminal E,,,7,Terminal E - Gate 7,Gate E7,5,32.892687; -97.037244,N,Y,50,N,N,0
+DFW,E,Terminal E,,,8,Terminal E - Gate 8,Gate E8,6,32.892454; -97.036632,N,Y,50,N,N,0
+DFW,E,Terminal E,,,9,Terminal E - Gate 9,Gate E9,7,32.892411; -97.036575,N,Y,50,N,N,0
+DFW,E,Terminal E,,,-25,Terminal E- Skylink E2-E16,Skylink E2-E16,50,32.892390; -97.036433,N,N,50,N,N,0
+DFW,E,Terminal E,,,10,Terminal E - Gate 10,Gate E10,8,32.892305; -97.036443,N,Y,50,N,N,0
+DFW,E,Terminal E,,,-6,Terminal E - TSA Checkpoint 8,TSA Checkpoint E8,59,32.892087; -97.036539,N,Y,50,N,N,0
+DFW,E,Terminal E,,,-7,Terminal E - Delta Sky Club 10,Delta Sky Club E10,45,32.892127; -97.036358,N,Y,50,N,N,0
+DFW,E,Terminal E,,,11,Terminal E - Gate 11,Gate E11,9,32.892068; -97.036172,N,Y,50,N,N,0
+DFW,E,Terminal E,,,12,Terminal E - Gate 12,Gate E12,10,32.891694; -97.035958,N,Y,50,N,N,0
+DFW,E,Terminal E,,,13,Terminal E - Gate 13,Gate E13,11,32.891494; -97.035826,N,Y,50,N,N,0
+DFW,E,Terminal E,,,14,Terminal E - Gate 14,Gate E14,12,32.890875; -97.035674,N,Y,50,N,N,0
+DFW,E,Terminal E,,,15,Terminal E - Gate 15,Gate E15,13,32.890576; -97.035542,N,Y,50,N,N,0
+DFW,E,Terminal E,,,-12,Terminal E - Gameway 16,Gameway E16,47,32.890120; -97.035708,N,Y,50,N,N,0
+DFW,E,Terminal E,,,16,Terminal E - Gate 16,Gate E16,14,32.890014; -97.035574,N,Y,50,N,N,0
+DFW,E,Terminal E,,,-26,Terminal E - TSA Checkpoint 16,TSA Checkpoint E16,55,32.889884; -97.035779,N,Y,50,N,N,0
+DFW,E,Terminal E,,,17,Terminal E - Gate 17,Gate E17,15,32.889769; -97.035627,N,Y,50,N,N,0
+DFW,E,Terminal E,,,-13,Terminal E - TSA Checkpoint 18,TSA Checkpoint E18,56,32.889731; -97.035840,N,Y,50,N,N,0
+DFW,E,Terminal E,,,18,Terminal E - Gate 18,Gate E18,16,32.889331; -97.035838,N,Y,50,N,N,0
+DFW,E,Terminal E,,,-15,Terminal E - Envoy Crew and In Flight Office,Envoy Crew and In Flight Office,46,32.887688; -97.035020,N,Y,50,N,N,0
+DFW,E,Terminal E,,,20,Terminal E - Gate 20,Gate E20,17,32.889281; -97.035845,N,Y,50,N,N,0
+DFW,E,Terminal E,,,21,Terminal E - Gate 21,Gate E21,18,32.889111; -97.035951,N,Y,50,N,N,0
+DFW,E,Terminal E,,,-16,Terminal E - Admirals Club Satellite,Admirals Club E Satellite,36,32.888121; -97.034524,N,Y,50,N,N,0
+DFW,E,Terminal E,,,26,Terminal E - Gate 26,Gate E26,23,32.887715; -97.034675,N,Y,50,N,N,0
+DFW,E,Terminal E,,,22,Terminal E - Gate 22,Gate E22,19,32.887461; -97.034516,N,Y,50,N,N,0
+DFW,E,Terminal E,,,25,Terminal E - Gate 25,Gate E25,22,32.887416; -97.034886,N,Y,50,N,N,0
+DFW,E,Terminal E,,,23,Terminal E - Gate 23,Gate E23,20,32.887281; -97.034678,N,Y,50,N,N,0
+DFW,E,Terminal E,,,24,Terminal E - Gate 24,Gate E24,21,32.887308; -97.034826,N,Y,50,N,N,0
+DFW,E,Terminal E,,,27,Terminal E - Gate 27,Gate E27,24,32.888115; -97.034338,N,Y,50,N,N,0
+DFW,E,Terminal E,,,28,Terminal E - Gate 28,Gate E28,25,32.888276; -97.034105,N,Y,50,N,N,0
+DFW,E,Terminal E,,,29,Terminal E - Gate 29,Gate E29,26,32.888317; -97.033999,N,Y,50,N,N,0
+DFW,E,Terminal E,,,30,Terminal E - Gate 30,Gate E30,27,32.888272; -97.033895,N,Y,50,N,N,0
+DFW,E,Terminal E,,,31,Terminal E - Gate 31,Gate E31,28,32.888491; -97.036558,N,Y,50,N,N,0
+DFW,E,Terminal E,,,-27,Terminal E- Skylink E18-E38,Skylink E18-E38,49,32.888332; -97.036521,N,N,50,N,N,0
+DFW,E,Terminal E,,,32,Terminal E - Gate 32,Gate E32,29,32.888380; -97.036728,N,Y,50,N,N,0
+DFW,E,Terminal E,,,33,Terminal E - Gate 33,Gate E33,30,32.888293; -97.036862,N,Y,50,N,N,0
+DFW,E,Terminal E,,,-22,Terminal E - TSA Checkpoint 33,TSA Checkpoint E33,57,32.888311; -97.037211,N,Y,50,N,N,0
+DFW,E,Terminal E,,,34,Terminal E - Gate 34,Gate E34,31,32.888062; -97.037417,N,Y,50,N,N,0
+DFW,E,Terminal E,,,35,Terminal E - Gate 35,Gate E35,32,32.887990; -97.037707,N,Y,50,N,N,0
+DFW,E,Terminal E,,,36,Terminal E - Gate 36,Gate E36,33,32.887946; -97.037923,N,Y,50,N,N,0
+DFW,E,Terminal E,,,37,Terminal E - Gate 37,Gate E37,34,32.887750; -97.038577,N,Y,50,N,N,0
+DFW,E,Terminal E,,,38,Terminal E - Gate 38,Gate E38,35,32.887762; -97.038840,N,Y,50,N,N,0
+DFW,E,Terminal E,,,-23,Terminal E - Ticket Counter 33,Ticket Counter E33,53,32.888175; -97.037967,N,Y,50,Y,N,0
+DFW,E,Terminal E,,,-22,Terminal E - TSA Checkpoint 33,TSA Checkpoint E33,58,32.888311; -97.037211,N,Y,50,N,N,0
+DFW,E,Terminal E,,,-21,Terminal E - Baggage Claim 44,Baggage Claim E44,43,32.888514; -97.037066,N,Y,50,Y,N,0
+DFW,E,Terminal E,,,-20,Terminal E - Baggage Claim 33,Baggage Claim E33,41,32.888586; -97.036959,N,Y,50,Y,N,0
+DFW,E,Terminal E,,,-19,Terminal E - Baggage Claim 32,Baggage Claim E32,40,32.888656; -97.036848,N,Y,50,Y,N,0
+DFW,E,Terminal E,,,-18,Terminal E - Baggage Claim 31,Baggage Claim E31,39,32.888786; -97.036677,N,Y,50,Y,N,0
+DFW,E,Terminal E,,,-17,Terminal E - Valet Booth 31,Valet Booth E31,61,32.889050; -97.037133,N,Y,50,Y,N,0
+DFW,E,Terminal E,,,-14,Terminal E - Ticket Counter 20,Ticket Counter E20,52,32.889159; -97.036278,N,Y,50,Y,N,0
+DFW,E,Terminal E,,,-11,Terminal E - Valet Booth 16,Valet Booth E16,60,32.890245; -97.036401,N,Y,50,Y,N,0
+DFW,E,Terminal E,,,-10,Terminal E - Ticket Counter 15,Ticket Counter E15,51,32.890415; -97.035841,N,Y,50,Y,N,0
+DFW,E,Terminal E,,,-9,Terminal E - Baggage Claim 15,Baggage Claim E15,38,32.890883; -97.036046,N,Y,50,Y,N,0
+DFW,E,Terminal E,,,-8,Terminal E - Baggage Claim 14,Baggage Claim E14,37,32.891182; -97.036152,N,Y,50,Y,N,0
+DFW,E,Terminal E,,,-5,Terminal E - Ticket Counter 8,Ticket Counter E8,54,32.892350; -97.037226,N,Y,50,Y,N,0
+DFW,E,Terminal E,,,-4,Terminal E - Valet Booth 7,Valet Booth E7,62,32.892178; -97.037800,N,Y,50,Y,N,0
+DFW,E,Terminal E,,,-3,Terminal E - Baggage Claim 5,Baggage Claim E5,44,32.892432; -97.037733,N,Y,50,Y,N,0
+DFW,E,Terminal E,,,-2,Terminal E - Baggage Claim 4,Baggage Claim E4,42,32.892530; -97.038264,N,Y,50,Y,N,0
+DFW,E,Terminal E,,,-1,Terminal E - Lost and Found Office 2,Lost and Found Office (pre-security),48,32.892592; -97.038563,N,Y,50,Y,N,0

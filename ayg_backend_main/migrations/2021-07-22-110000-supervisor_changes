@@ -1,0 +1,2 @@
+add scheduled/_worker_partners_ping_retailers.php into supervisor
+add scheduled/_worker_partners_update_retailers_and_items.php into supervisor

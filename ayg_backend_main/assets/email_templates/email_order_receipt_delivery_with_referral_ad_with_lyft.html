@@ -1,0 +1,408 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AtYourGate - Order Receipt</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <style type="text/css">
+        /* CLIENT-SPECIFIC STYLES */
+        body, table, td, a{-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;} /* Prevent WebKit and Windows mobile changing default text sizes */
+        table, td{mso-table-lspace: 0pt; mso-table-rspace: 0pt;} /* Remove spacing between tables in Outlook 2007 and up */
+        img{-ms-interpolation-mode: bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */
+
+        /* RESET STYLES */
+        img{border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none;}
+        table{border-collapse: collapse !important;}
+        body{height: 100% !important; margin: 0 !important; padding: 0 !important; width: 100% !important;}
+        #backgroundTable { margin: 0px auto; padding:0; width:100% !important; max-width: 600px; line-height: 100% !important;}
+        #backgroundTable table { width: 600px; box-sizing: border-box; }
+
+        .footer-links { color: #959595; }
+        .footer-links a { color: #4a90e2; font-size: 10px; }
+        .footer { padding: 40px 0; font-family: sans-serif; }
+        .footer .social { display: inline-block; margin: 10px 10px 30px; width: 50px; height: 50px; }
+        .footer p { padding: 5px 30px; font-size: 10px; font-weight: 100; text-align: center; }
+        .footer h4 { color: #000; }
+        .copyright { padding: 0 45px 30px; color: #959595; font-size: 10px; text-align: center; }
+
+        /* iOS BLUE LINKS */
+        a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+
+        /* MOBILE STYLES */
+        @media screen and (max-width: 525px) {
+
+            /* ALLOWS FOR FLUID TABLES */
+            .wrapper {
+                width: 100% !important;
+                max-width: 100% !important;
+            }
+
+            /* ADJUSTS LAYOUT OF LOGO IMAGE */
+            .logo img {
+                margin: 0 auto !important;
+            }
+
+            /* USE THESE CLASSES TO HIDE CONTENT ON MOBILE */
+            .mobile-hide {
+                display: none !important;
+            }
+
+            .img-max {
+                max-width: 100% !important;
+                width: 100% !important;
+                height: auto !important;
+            }
+
+            /* FULL-WIDTH TABLES */
+            .responsive-table {
+                width: 100% !important;
+            }
+
+            /* UTILITY CLASSES FOR ADJUSTING PADDING ON MOBILE */
+            .padding {
+                padding: 10px 5% 15px 5% !important;
+            }
+
+            .padding-meta {
+                padding: 30px 5% 0px 5% !important;
+                text-align: center;
+            }
+
+            .padding-copy {
+                padding: 10px 5% 10px 5% !important;
+                text-align: center;
+            }
+
+            .no-padding {
+                padding: 0 !important;
+            }
+
+            .section-padding {
+                padding: 50px 15px 50px 15px !important;
+            }
+
+            /* ADJUST BUTTONS ON MOBILE */
+            .mobile-button-container {
+                margin: 0 auto;
+                width: 100% !important;
+            }
+
+            .mobile-button {
+                padding: 15px !important;
+                border: 0 !important;
+                font-size: 16px !important;
+                display: block !important;
+            }
+
+        }
+
+        /* ANDROID CENTER FIX */
+        div[style*="margin: 16px 0;"] { margin: 0 !important; }
+    </style>
+</head>
+<body style="margin: 0 !important; padding: 0 !important;">
+
+<!-- HIDDEN PREHEADER TEXT -->
+<div style="display: none; font-size: 1px; color: #fefefe; line-height: 1px; font-family: Helvetica, Arial, sans-serif; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;">
+    Order Confirmation from [{retailer_name}] at [{airport_iata_code}]
+</div>
+
+<!-- HEADER -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+        <td bgcolor="#ffffff" align="center">
+            <!--[if (gte mso 9)|(IE)]>
+            <table align="center" border="0" cellspacing="0" cellpadding="0" width="500">
+                <tr>
+                    <td align="center" valign="top" width="500">
+            <![endif]-->
+            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 500px;" class="wrapper">
+                <tr>
+                    <td align="center" valign="top" style="padding: 15px 0;" class="logo">
+                        <a href="https://www.atyourgate.com" target="_blank">
+                            <img alt="AtYourGate" src="https://atyourgate.com/wp-content/uploads/2020/10/icon-blue.png" width="60" height="60" style="display: block; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-size: 16px;" border="0">
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+                            <tr>
+                                <td align="center" style="padding: 0px 0 0 0; font-size: 28px; line-height: 25px; font-family: Gotham, Helvetica, Arial, sans-serif; font-weight: lighter; color: #000000;" class="padding-copy">At<span style="font-weight: normal;">Your</span>Gate</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+                            <tr>
+                                <td align="center" style="padding: 8px 0 0 0; font-size: 16px; line-height: 25px; font-family: Helvetica, Arial, sans-serif; color: #666666;" class="padding-copy">Don't fly hungry!</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <!--[if (gte mso 9)|(IE)]>
+            </td>
+            </tr>
+            </table>
+            <![endif]-->
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#ffffff" align="center" style="padding: 15px;">
+            <!--[if (gte mso 9)|(IE)]>
+            <table align="center" border="0" cellspacing="0" cellpadding="0" width="500">
+                <tr>
+                    <td align="center" valign="top" width="500">
+            <![endif]-->
+            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px; border-radius: 20px; box-shadow: 0px 0px 17px #666;" align="center" class="responsive-table">
+                <tr>
+                     <td>
+                         <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 500px;" class="responsive-table">
+
+                <tr>
+                    <td>
+                        <!-- COPY -->
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td align="left" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 30px;" class="padding-copy">[{greeting}] [{first_name}]</td>
+                            </tr>
+                            <tr>
+                                <td align="left" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 30px;" class="padding-copy">Thank you for ordering with AtYourGate.</td>
+                            </tr>
+                            <tr>
+                                <td align="left" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 30px;" class="padding-copy">Your Delivery location is at [{fullfillment_location}].</td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tbody>
+                                            <tr>
+                                                <td align="center" style="background-color:#00b3e3; font-size:18px; font-family: Helvetica, Arial, sans-serif; font-weight:bold; text-align: center; color:#fff; padding:10px 0;">
+                                                    [{retailer_name}] at [{airport_iata_code}]
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td align="center" style="background-color: #e7e7e7; font-family: Helvetica, Arial, sans-serif; font-size:14px; text-align:center; color:#000; padding:10px 0;">
+                                                    (Order# [{order_sequence_number}])
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                            <!-- <tr>
+                                <td align="left" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 30px;" class="padding-copy"><hr /></td>
+                            </tr> -->
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+                            [{repeat-items}]
+
+                            <tr style="border-bottom:1px solid #cfcfcf;">
+                                <td style="width: 40%; font-size: 14px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 5px; padding-right: 10px; font-weight:bold;" class="padding-copy" align="left"><span style="font-size:16px; padding-right:5px;padding-left:3px;">&#x02022;</span>[{itemName}] x [{itemQuantity}]</td>
+                                <td style="width: 10%; padding-top: 10px;" class="padding-copy">&nbsp;</td>
+                                <td style="width: 40%; font-size: 14px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 5px;" class="padding-copy" align="right">[{itemTotalPriceDisplay}]</td>
+                            </tr>
+
+                            [{/repeat-items}]
+
+                            [{repeat-options}]
+
+                            <tr style="border-bottom:1px solid #cfcfcf;">
+                                <td style="width: 40%; font-size: 14px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 5px; padding-left: 35px;" class="padding-copy" align="left"><span style="font-size:16px; padding-right:5px;padding-left:3px;">&#x02022;</span>[{optionName}]</td>
+                                <td style="width: 10%; padding-top: 10px;" class="padding-copy">&nbsp;</td>
+                                <td style="width: 40%; font-size: 14px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 5px;" class="padding-copy" align="right">[{priceTotalDisplay}]</td>
+                            </tr>
+
+                            [{/repeat-options}]
+
+                            <tr style="border-bottom:1px solid #cfcfcf;">
+                                <td style="width: 10%; padding-top: 10px;" class="padding-copy">&nbsp;</td>
+                                <td style="width: 60%; font-size: 14px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 5px; padding-right: 10px; font-weight:bold;" class="padding-copy" align="right">Sub-Total</td>
+                                <td style="width: 30%; font-size: 14px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 10px; font-weight:bold;" class="padding-copy" align="right">	[{PreTaxTotalDisplay}]</td>
+                            </tr>
+
+                            <tr style="border-bottom:1px solid #cfcfcf;">
+                                <td style="width: 10%; padding-top: 10px;" class="padding-copy">&nbsp;</td>
+                                <td style="width: 60%; font-size: 14px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 5px; padding-right: 10px;" class="padding-copy" align="right">Discounts</td>
+
+                                <td style="width: 30%; font-size: 14px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 5px;" class="padding-copy" align="right">[{DiscountsTotalDisplay}]</td>
+                            </tr>
+                            <tr style="border-bottom:1px solid #cfcfcf;">
+                                <td style="width: 10%; padding-top: 10px;" class="padding-copy">&nbsp;</td>
+                                <td style="width: 60%; font-size: 14px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 5px; padding-right: 10px;" class="padding-copy" align="right">Taxes</td>
+                                <td style="width: 30%; font-size: 14px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 5px;" class="padding-copy" align="right">[{TaxesDisplay}]</td>
+                            </tr>
+                            <tr style="border-bottom:1px solid #cfcfcf;">
+
+                                <td style="width: 10%; padding-top: 10px;" class="padding-copy">&nbsp;</td>
+                                <td style="width: 60%; font-size: 14px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 5px; padding-right: 10px;" class="padding-copy" align="right">Coupon</td>
+                                <td style="width: 30%; font-size: 14px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 5px;" class="padding-copy" align="right">	[{CouponDisplay}]</td>
+                            </tr>
+                            <tr style="border-bottom:1px solid #cfcfcf;">
+
+                                <td style="width: 10%; padding-top: 10px;" class="padding-copy">&nbsp;</td>
+                                <td style="width: 60%; font-size: 14px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 5px; padding-right: 10px;" class="padding-copy" align="right">AtYourGate charges</td>
+                                <td style="width: 30%; font-size: 14px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 5px;" class="padding-copy" align="right">	[{AirportSherpaFeeDisplay}]</td>
+                            </tr>
+                            <tr style="border-bottom:1px solid #cfcfcf;">
+
+                                <td style="width: 10%; padding-top: 10px;" class="padding-copy">&nbsp;</td>
+                                <td style="width: 60%; font-size: 14px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 5px; padding-right: 10px;" class="padding-copy" align="right">Credits</td>
+                                <td style="width: 30%; font-size: 14px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 5px;" class="padding-copy" align="right">	[{CreditsAppliedDisplay}]</td>
+                            </tr>
+
+
+                            [{tips_details_html}]
+
+                            <tr style="border-bottom:1px solid #cfcfcf;">
+
+                                <td style="width: 10%; padding-top: 10px;" class="padding-copy">&nbsp;</td>
+                                <td style="width: 60%; font-size: 14px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 5px; padding-right: 10px; font-weight: bold;" class="padding-copy" align="right">Total</td>
+                                <td style="width: 30%; font-size: 14px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 5px; font-weight:bold;" class="padding-copy" align="right">	[{TotalDisplay}]</td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;</td>
+                            </tr>
+                         </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td align="center" style="font-size: 12px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 30px;" class="padding-copy">[{payment_details}]</td>
+                            </tr>
+<!-- JMD -->
+                        </table>
+<!-- Referral -->
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td align="center" style="font-size: 12px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 30px;" class="padding-copy"><hr /></td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="font-size: 18px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 30px; font-weight: bold; color: #228B22" class="padding-copy">GET [{reward_in_dollars_formatted}] OFF</td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="font-size: 14px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 30px;" class="padding-copy">You will earn [{reward_in_dollars_formatted}] credits for every friend you invite and who places their first order. To make it sweeter, they too get [{referral_offer_in_dollars_formatted}] (when they spend over [{referral_offer_in_dollars_min_spend_formatted}]).</td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="font-size: 14px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 30px; font-weight: bold" class="padding-copy">The more you invite, the more you earn! So spread the word!</td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 30px;" class="padding-copy">Your unique referral code is:</td>
+                            </tr>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td align="center">
+                                    <!-- BULLETPROOF BUTTON -->
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr>
+                                            <td align="center" style="padding-top: 25px;" class="padding">
+                                                <table border="0" cellspacing="0" cellpadding="0" class="mobile-button-container">
+                                                    <tr>
+                                                        <td align="center" style="border-radius: 3px;" bgcolor="#00B3E3"><a href="[{url}]" target="_blank" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; text-decoration: none; color: #ffffff; text-decoration: none; border-radius: 3px; padding: 15px 25px; border: 1px solid #00B3E3; display: inline-block; font-weight: bold" class="mobile-button">[{user_referral_code}]</a></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td align="center" style="padding: 20px 0 0 0; font-size: 12px; line-height: 25px; font-family: Helvetica, Arial, sans-serif; color: #666666;" class="padding-copy">Please abide by the referral program rules, learn more here, <a href="[{referral_rules_url}]" target="_blank">Referral Program Rules</a></b></td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="font-size: 12px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 30px;" class="padding-copy"><hr /></td>
+                            </tr>
+                        </table>
+<!-- Referral -->
+
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td align="center" style="font-size: 18px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 30px; font-weight: bold;" class="padding-copy" colspan="2">We got a deal for you!</td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="font-size: 14px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 30px;" class="padding-copy"><img src="https://atyourgate.com/images/offers/lyft.png" width="100" /></td>
+                                <td align="center" style="font-size: 14px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 30px;" class="padding-copy">Use the code <b>AtYourGate</b> for $5 off your next Lyft ride to or from any airport in the US. Enter the code in the Promos section. <a href="https://www.lyft.com/terms" target="_blank">Terms and Conditions apply</a>.</td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="font-size: 12px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 30px;" class="padding-copy" colspan="2"><hr /></td>
+                            </tr>
+                        </table>
+
+<!-- Lyft -->
+                        <!-- <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td align="center" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 50px; font-weight: bold" class="padding-copy">Need Help?</td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 20px;" class="padding-copy">Reach us at:</td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 20px;" class="padding-copy"><a href='mailto:help@atyourgate.com?Subject=Order+Support+[{order_sequence_number}]'>help@atyourgate.com</a></td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 20px;" class="padding-copy">844-266-4283</td>
+                            </tr>
+                        </table> -->
+                    </td>
+                </tr>
+                <!-- <tr>
+                    <td>
+                        <table cellpadding="0" cellspacing="0" border="0" id="backgroundTable">
+
+                            <tr>
+                                <td class="footer" style="text-align: center;">
+                                    <h4>Follow us:</h4>
+
+                                    <a href="https://www.facebook.com/weareatyourgate" target="_blank"><img src="https://marketing-image-production.s3.amazonaws.com/uploads/a217ff196a393dc5d581a78aca2f0ab6a3adc675bd3254568e75b97a06083da25fb124abbe5b5491f12e6dc25c981e1c14eb9626221694022662dc5b6ead1b2c.png" class="social"></a>
+                                    <a href="https://twitter.com/atyourgate" target="_blank"><img src="https://marketing-image-production.s3.amazonaws.com/uploads/32255d29ae26afc8f0f99e8793313fb336d85aa5acffd44116477397de08385218683efbd7129252eb61c9f7d4bf80681cb3ea3b2ae4601cef9589a9aa4065eb.png" class="social"></a>
+                                    <a href="https://www.instagram.com/atyourgate" target="_blank"><img src="https://marketing-image-production.s3.amazonaws.com/uploads/12042ff989626c7a2b63373427a0fc10609834334745261b819c635540e0082b7ca2323eac638f675db4a78b5f9814efb8315c8e1206b9c8de5fbc0f1b4d2e77.png" class="social"></a>
+                                    <a href="https://www.linkedin.com/company/-yourgate-llc" target="_blank"><img src="https://marketing-image-production.s3.amazonaws.com/uploads/c08e9dcd2b649495fcc7aecdf33eb087ec06338f0929bb3112ea87b8bd799e42cf779d45b8e1b69f07babe8c5f967f07005934c566622b9ba6f4fd2daa44137f.png" class="social"></a>
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td class="footer" style="text-align: center;">
+                                    <p>AtYourGate, Inc.<br>
+                                        4 Half Moon Trail,
+                                        Ladera Ranch, CA 92694</p>
+                                        
+                                    <p>Copyright &copy; [{copyright_year}] AtYourGate.</p>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr> -->
+                
+                         </table>
+                     </td>
+                 </tr>
+            </table>
+            
+            <!--[if (gte mso 9)|(IE)]>
+            </td>
+            </tr>
+            </table>
+            <![endif]-->
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>

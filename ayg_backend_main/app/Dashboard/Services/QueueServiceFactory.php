@@ -1,0 +1,34 @@
+<?php
+namespace App\Dashboard\Services;
+
+use App\Tablet\Exceptions\QueueServiceNotSupportedException;
+use App\Tablet\Helpers\ConfigHelper;
+use PhpAmqpLib\Connection\AMQPSSLConnection;
+use PhpAmqpLib\Connection\AMQPStreamConnection;
+
+
+/**
+ * Class QueueServiceFactory
+ * @package App\Dashboard\Services
+ *
+ * Creates instance of QueueServiceInterface
+ */
+class QueueServiceFactory extends Service
+{
+    /**
+     * @return QueueServiceInterface
+     * @throws QueueServiceNotSupportedException
+     *
+     * this class should switch between classes with QueueServiceInterface - like different for
+     * Iron, Sqs, Rabbit etc,
+     * now it just creates ConsumerQueueClassWrapperService with injected class from consumer part
+     * (lib/ directory) which class it is depends on GLOBAL variable
+     */
+    public static function create()
+    {
+        return new ConsumerQueueClassWrapperService(
+            newWorkerQueueConnection(ConfigHelper::get('env_workerQueueConsumerName'))
+        );
+    }
+
+}
